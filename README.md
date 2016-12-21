@@ -1,6 +1,6 @@
 # Rock Climbing Open Source Course
 
-<img alt="Bride Climbing" src="https://goo.gl/8P1uew">
+<img alt="Cover" src="https://goo.gl/8P1uew">
 
 ## About
 
@@ -10,10 +10,10 @@ This is a collection of tutorials for those of you who want to learn **Rock Clim
 
 ## Content
 - [Introduction](#introduction)
+- [Gear](#gear)
 - [Knots](#knots)
 - [Rock Climbing Lingo](#rock-climbing-lingo)
 - [Rock Climbing Rating System](#rock-climbing-rating-system)
-- [Rock Climbing Gear](#rock-climbing-gear)
 - [Rock Climbing Technique](#rock-climbing-technique)
 - [Rock Climbing Training](#rock-climbing-training)
 - [Rock Climbers](#rock-climbers)
@@ -21,11 +21,10 @@ This is a collection of tutorials for those of you who want to learn **Rock Clim
 - [Further Reading and Learning](#further-reading-and-learning)
 
 ## Introduction
+
 [How to rock climb](http://www.howcast.com/guides/1108-how-to-rock-climb/)
-A brief introduction to three types of indoor rock climbing.
 
 [Rock Climbing for Beginners - Introduction To Rock Climbing](https://www.youtube.com/watch?v=gLfvk2SSj1c&t=4s)
-Physical and mental benefits of rock climbing.
 
 [The 10 Things You Need to Know Before You Go Rock Climbing](http://greatist.com/move/rock-climbing-tips)
 
@@ -35,13 +34,7 @@ Physical and mental benefits of rock climbing.
 
 [How to Get Started: 10 Pro Tips for Rock-Climbing Beginners](http://www.popularmechanics.com/adventure/outdoors/a9412/how-to-get-started-10-pro-tips-for-rock-climbing-beginners-15837589/)
 
-## Knots
-[How to Tie the Figure 8 Follow Through Loop](https://www.youtube.com/watch?v=aLopeVBb7yU&feature=youtu.be)
-
-## Rock Climbing Lingo
-[How to Understand Climbing Terminology](https://www.youtube.com/watch?v=nUJAI7CuRO0&index=2&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
-
-## Rock Climbing Gear
+## Gear
 [Rock Climbing for Beginners - Rock Climbing Gear](https://www.youtube.com/watch?v=tXwV0YD222g)
 
 [How to belay the leader with a REVERSO](https://www.youtube.com/watch?v=ymJb6tW5_BE&index=7&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
@@ -51,6 +44,12 @@ Physical and mental benefits of rock climbing.
 [The World's Worst Belayer](https://www.youtube.com/watch?v=V9hsWjA3SmU)
 
 [Intro to Carabiners](https://www.youtube.com/watch?v=llUg6LhvryE&index=45&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
+
+## Knots
+[How to Tie the Figure 8 Follow Through Loop](https://www.youtube.com/watch?v=aLopeVBb7yU&feature=youtu.be)
+
+## Rock Climbing Lingo
+[How to Understand Climbing Terminology](https://www.youtube.com/watch?v=nUJAI7CuRO0&index=2&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
 
 ## Rock Climbing Rating System
 [Understanding Climbing Grades](http://www.climbing.com/skills/unsent-understanding-climbing-grades/)
