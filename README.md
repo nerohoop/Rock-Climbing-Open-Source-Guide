@@ -20,8 +20,6 @@ This is a collection of tutorials for those of you who want to learn **Rock Clim
 - [Rock Climbing Inspiration](#rock-climbing-inspiration)
 - [Further Reading and Learning](#further-reading-and-learning)
 
-<img alt="Bride Climbing" src="https://goo.gl/2xlqzn">
-
 ## Introduction
 [How to rock climb](http://www.howcast.com/guides/1108-how-to-rock-climb/)
 A brief introduction to three types of indoor rock climbing.
@@ -34,6 +32,8 @@ Physical and mental benefits of rock climbing.
 [The Beginner's Guide to Rock Climbing](https://www.outsideonline.com/2062326/beginners-guide-rock-climbing)
 
 [How to Rock Climb – The Beginners Guide](http://expertenough.com/690/rock-climbing)
+
+[How to Get Started: 10 Pro Tips for Rock-Climbing Beginners](http://www.popularmechanics.com/adventure/outdoors/a9412/how-to-get-started-10-pro-tips-for-rock-climbing-beginners-15837589/)
 
 ## Knots
 [How to Tie the Figure 8 Follow Through Loop](https://www.youtube.com/watch?v=aLopeVBb7yU&feature=youtu.be)
@@ -88,6 +88,7 @@ Physical and mental benefits of rock climbing.
 ### Further Reading and Learning
 [Dosage the Complete Box Set](https://goo.gl/C68p8J)
 
+<img alt="Bride Climbing" src="https://goo.gl/2xlqzn">
 
 ## How to collaborate
 
