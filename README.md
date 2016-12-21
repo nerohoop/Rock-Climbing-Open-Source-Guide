@@ -57,6 +57,13 @@ This is a collection of tutorials for those of you who want to learn **Rock Clim
 
 [How to Use an Auto-Belay Device for Indoor Climbing](http://www.howcast.com/videos/512690-how-to-use-an-auto-belay-device-rock-climbing/)
 
+## Rock Climbing Lingo
+[How to Use Commands before Top-Rope Climbing](http://www.howcast.com/videos/512688-using-commands-before-top-rope-climbing-rock-climbing/)
+
+[How to Use Commands during Top-Rope Climbing](http://www.howcast.com/videos/512689-using-commands-during-top-rope-climbing-rock-climbing/)
+
+[How to Understand Climbing Terminology](https://www.youtube.com/watch?v=nUJAI7CuRO0&index=2&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
+
 ## Lead Climbing 
 
 [How to Clip on Lead for Indoor Rock Climbing](http://www.howcast.com/videos/512694-how-to-clip-on-lead-for-indoor-climbing-rock-climbing/)
@@ -69,12 +76,6 @@ This is a collection of tutorials for those of you who want to learn **Rock Clim
 
 [How to Spot for Indoor Rock Climbing](http://www.howcast.com/videos/512698-how-to-spot-for-indoor-climbing-rock-climbing/)
 
-## Rock Climbing Lingo
-[How to Use Commands before Top-Rope Climbing](http://www.howcast.com/videos/512688-using-commands-before-top-rope-climbing-rock-climbing/)
-
-[How to Use Commands during Top-Rope Climbing](http://www.howcast.com/videos/512689-using-commands-during-top-rope-climbing-rock-climbing/)
-
-[How to Understand Climbing Terminology](https://www.youtube.com/watch?v=nUJAI7CuRO0&index=2&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
 
 ## Rock Climbing Rating System
 [Understanding Climbing Grades](http://www.climbing.com/skills/unsent-understanding-climbing-grades/)
