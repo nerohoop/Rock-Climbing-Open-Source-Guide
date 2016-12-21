@@ -1,7 +1,11 @@
 # Rock Climbing Open Source Course
 
+## About
+
+This is a collection of tutorials for those of you who want to learn **Rock Climbing** on your own time, **for free**.
+
 ## Content
-- [Introduction to Rock Climbing](#introduction-to-rock-climbing)
+- [Introduction](#introduction)
 - [Rock Climbing Lingo](#rock-climbing-lingo)
 - [Rock Climbing Rating System](#rock-climbing-rating-system)
 - [Rock Climbing Gear](#rock-climbing-gear)
@@ -11,15 +15,15 @@
 - [Rock Climbing Inspiration](#rock-climbing-inspiration)
 - [Further Reading and Learning](#further-reading-and-learning)
 
-### Introduction to Rock Climbing
+## Introduction
 [Rock Climbing for Beginners - Introduction To Rock Climbing](https://www.youtube.com/watch?v=gLfvk2SSj1c&t=4s)
 
 [How to Rock Climb – The Beginners Guide](http://expertenough.com/690/rock-climbing)
 
-### Rock Climbing Lingo
+## Rock Climbing Lingo
 [How to Understand Climbing Terminology](https://www.youtube.com/watch?v=nUJAI7CuRO0&index=2&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
 
-### Rock Climbing Gear
+## Rock Climbing Gear
 [Rock Climbing for Beginners - Rock Climbing Gear](https://www.youtube.com/watch?v=tXwV0YD222g)
 
 [How to belay the leader with a REVERSO](https://www.youtube.com/watch?v=ymJb6tW5_BE&index=7&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
@@ -30,10 +34,10 @@
 
 [Intro to Carabiners](https://www.youtube.com/watch?v=llUg6LhvryE&index=45&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
 
-### Rock Climbing Rating System
+## Rock Climbing Rating System
 [Understanding Climbing Grades](http://www.climbing.com/skills/unsent-understanding-climbing-grades/)
 
-### Rock Climbing Technique
+## Rock Climbing Technique
 [5 Fundamentals of Indoor Rock Climbing](http://www.howcast.com/videos/512680-5-Fundamentals-of-Indoor-Rock-Climbing-Rock-Climbing/)
 
 [How to Use Chalk for Indoor Climbing](http://www.howcast.com/videos/512682-how-to-use-chalk-for-indoor-climbing-rock-climbing/)
@@ -56,14 +60,42 @@
 
 [Lead Climbing](https://www.youtube.com/watch?v=q4rVY3sLQqA)
 
-### Rock Climbing Training
+## Rock Climbing Training
 
-### Rock Climbers
+## Rock Climbers
 
 ### Rock Climbing Inspiration
 [Matthew Childs 9 Rules of Rock Climbing](https://www.ted.com/talks/matthew_childs_9_rules_of_rock_climbing#t-31881)
 
 ### Further Reading and Learning
 [Dosage the Complete Box Set](https://goo.gl/C68p8J)
+
+
+## How to collaborate
+
+You can [open an issue](https://help.github.com/articles/creating-an-issue/) and give us your suggestions as to how we can improve this guide, or what we can do to improve the learning experience.
+
+You can also [fork this project](https://help.github.com/articles/fork-a-repo/) and send a [pull request](https://help.github.com/articles/using-pull-requests/) to fix any mistakes that you have found.
+
+If you want to suggest a new resource, send a pull request adding such resource to the [extras](https://github.com/open-source-society/computer-science/tree/master/extras) section.
+
+The **extras** section is a place where all of us will be able to submit interesting additional articles, books, courses and specializations, keeping our curriculum *as immutable and concise as possible*.
+
+**Let's do it together! =)**
+
+## Community
+
+Subscribe to [/r/opensourcesociety](https://www.reddit.com/r/opensourcesociety/)!
+
+Join us in our [group](https://groups.google.com/forum/#!forum/open-source-society-university)!
+
+You can also interact through [GitHub issues](https://github.com/open-source-society/computer-science/issues).
+
+We also have a chat room! [![Join the chat at https://gitter.im/open-source-society/computer-science](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/open-source-society/computer-science?utm_campaign=pr-badge&utm_content=badge&utm_medium=badge&utm_source=badge)
+
+Add **Open Source Society University** to your [Facebook](https://www.facebook.com/ossuniversity) profile!
+
+> **ps**: A forum is an ideal way to interact with other students as we do not lose important discussions, which usually occur in communication via chat apps. **Please use our subreddit/group for important discussions**.
+
 
 
