@@ -1,11 +1,16 @@
 # Rock Climbing Open Source Course
 
+<img alt="Bride Climbing" src="https://goo.gl/8P1uew">
+
 ## About
+
+Always wanted to go climbing, but don’t know where to start? We’re here to help, with this basic guide to climbing styles, techniques, and jargon. Hopefully it helps remove some of the mystery, helps you figure out which disciplines you’d like to try, and makes it easier for you to get started.
 
 This is a collection of tutorials for those of you who want to learn **Rock Climbing** on your own time, **for free**.
 
 ## Content
 - [Introduction](#introduction)
+- [Knots](#knots)
 - [Rock Climbing Lingo](#rock-climbing-lingo)
 - [Rock Climbing Rating System](#rock-climbing-rating-system)
 - [Rock Climbing Gear](#rock-climbing-gear)
@@ -15,10 +20,23 @@ This is a collection of tutorials for those of you who want to learn **Rock Clim
 - [Rock Climbing Inspiration](#rock-climbing-inspiration)
 - [Further Reading and Learning](#further-reading-and-learning)
 
+<img alt="Bride Climbing" src="https://goo.gl/2xlqzn">
+
 ## Introduction
+[How to rock climb](http://www.howcast.com/guides/1108-how-to-rock-climb/)
+A brief introduction to three types of indoor rock climbing.
+
 [Rock Climbing for Beginners - Introduction To Rock Climbing](https://www.youtube.com/watch?v=gLfvk2SSj1c&t=4s)
+Physical and mental benefits of rock climbing.
+
+[The 10 Things You Need to Know Before You Go Rock Climbing](http://greatist.com/move/rock-climbing-tips)
+
+[The Beginner's Guide to Rock Climbing](https://www.outsideonline.com/2062326/beginners-guide-rock-climbing)
 
 [How to Rock Climb – The Beginners Guide](http://expertenough.com/690/rock-climbing)
+
+## Knots
+[How to Tie the Figure 8 Follow Through Loop](https://www.youtube.com/watch?v=aLopeVBb7yU&feature=youtu.be)
 
 ## Rock Climbing Lingo
 [How to Understand Climbing Terminology](https://www.youtube.com/watch?v=nUJAI7CuRO0&index=2&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
@@ -97,5 +115,5 @@ Add **Open Source Society University** to your [Facebook](https://www.facebook.c
 
 > **ps**: A forum is an ideal way to interact with other students as we do not lose important discussions, which usually occur in communication via chat apps. **Please use our subreddit/group for important discussions**.
 
-
+http://www.alpineinstitute.com/
 
