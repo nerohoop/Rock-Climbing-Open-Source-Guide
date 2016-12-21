@@ -12,6 +12,8 @@ This is a collection of tutorials for those of you who want to learn **Rock Clim
 - [Introduction](#introduction)
 - [Gear](#gear)
 - [Knots](#knots)
+- [Belay](#belay)
+- [Lead Climbing](#lead-climbing)
 - [Rock Climbing Lingo](#rock-climbing-lingo)
 - [Rock Climbing Rating System](#rock-climbing-rating-system)
 - [Rock Climbing Technique](#rock-climbing-technique)
@@ -37,18 +39,41 @@ This is a collection of tutorials for those of you who want to learn **Rock Clim
 ## Gear
 [Rock Climbing for Beginners - Rock Climbing Gear](https://www.youtube.com/watch?v=tXwV0YD222g)
 
-[How to belay the leader with a REVERSO](https://www.youtube.com/watch?v=ymJb6tW5_BE&index=7&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
-
-[How to belay the leader with a GRIGRI](https://www.youtube.com/watch?v=FHdqjjyeTtg&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq&index=6)
-
-[The World's Worst Belayer](https://www.youtube.com/watch?v=V9hsWjA3SmU)
-
 [Intro to Carabiners](https://www.youtube.com/watch?v=llUg6LhvryE&index=45&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
 
+[How to fit a climbing harness](http://www.howcast.com/videos/512683-how-to-fit-a-climbing-harness-rock-climbing/)
+
 ## Knots
+[How to Tie Figure 8 Follow-Through Knot for Indoor Climbing](http://www.howcast.com/videos/512684-how-to-tie-figure-8-follow-through-knot-rock-climbing/)
+
 [How to Tie the Figure 8 Follow Through Loop](https://www.youtube.com/watch?v=aLopeVBb7yU&feature=youtu.be)
 
+## Belay
+[How to Set Up a Top-Rope Belay for Indoor Climbing](http://www.howcast.com/videos/512685-how-to-set-up-a-top-rope-belay-rock-climbing/)
+
+[How to Use Proper Top-Rope Belay Method for Indoor Climbing](http://www.howcast.com/videos/512686-how-to-use-proper-top-rope-belay-method-rock-climbing/)
+
+[How to Lower a Climber in Top-Rope Belay](http://www.howcast.com/videos/512687-how-to-lower-climber-in-top-rope-belay-rock-climbing/)
+
+[How to Use an Auto-Belay Device for Indoor Climbing](http://www.howcast.com/videos/512690-how-to-use-an-auto-belay-device-rock-climbing/)
+
+## Lead Climbing 
+
+[How to Clip on Lead for Indoor Rock Climbing](http://www.howcast.com/videos/512694-how-to-clip-on-lead-for-indoor-climbing-rock-climbing/)
+
+[How to Lead Belay for Indoor Rock Climbing](http://www.howcast.com/videos/512695-how-to-lead-belay-for-indoor-climbing-rock-climbing/)
+
+[How to Take & Catch a Lead Fall for Indoor Climbing](http://www.howcast.com/videos/512696-how-to-take-catch-a-lead-fall-rock-climbing/)
+
+[5 Tips for Lead Climbing in Indoor Rock Climbing](http://www.howcast.com/videos/512697-5-tips-for-lead-climbing-rock-climbing/)
+
+[How to Spot for Indoor Rock Climbing](http://www.howcast.com/videos/512698-how-to-spot-for-indoor-climbing-rock-climbing/)
+
 ## Rock Climbing Lingo
+[How to Use Commands before Top-Rope Climbing](http://www.howcast.com/videos/512688-using-commands-before-top-rope-climbing-rock-climbing/)
+
+[How to Use Commands during Top-Rope Climbing](http://www.howcast.com/videos/512689-using-commands-during-top-rope-climbing-rock-climbing/)
+
 [How to Understand Climbing Terminology](https://www.youtube.com/watch?v=nUJAI7CuRO0&index=2&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
 
 ## Rock Climbing Rating System
@@ -56,6 +81,15 @@ This is a collection of tutorials for those of you who want to learn **Rock Clim
 
 ## Rock Climbing Technique
 [5 Fundamentals of Indoor Rock Climbing](http://www.howcast.com/videos/512680-5-Fundamentals-of-Indoor-Rock-Climbing-Rock-Climbing/)
+
+[How to Grip Indoor Climbing Holds](http://www.howcast.com/videos/512681-how-to-grip-indoor-climbing-holds-rock-climbing/)
+
+[How to belay the leader with a REVERSO](https://www.youtube.com/watch?v=ymJb6tW5_BE&index=7&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
+
+[How to belay the leader with a GRIGRI](https://www.youtube.com/watch?v=FHdqjjyeTtg&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq&index=6)
+
+[The World's Worst Belayer](https://www.youtube.com/watch?v=V9hsWjA3SmU)
+
 
 [How to Use Chalk for Indoor Climbing](http://www.howcast.com/videos/512682-how-to-use-chalk-for-indoor-climbing-rock-climbing/)
 
@@ -67,7 +101,6 @@ This is a collection of tutorials for those of you who want to learn **Rock Clim
 
 [Climbing Technique 2](https://www.youtube.com/watch?v=gkMngYYadjE)
 
-[How to Grip Indoor Climbing Holds](http://www.howcast.com/videos/512681-how-to-grip-indoor-climbing-holds-rock-climbing/)
 
 [Static vs. Dynamic Movement in Indoor Rock Climbing](http://www.howcast.com/videos/512701-static-vs-dynamic-movement-rock-climbing/)
 
