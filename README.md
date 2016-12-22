@@ -1,6 +1,6 @@
 # Rock Climbing Open Source Course
 
-<img alt="Cover" src="https://goo.gl/8P1uew">
+<img alt="Cover" src="https://goo.gl/5Dai9d">
 
 ## About
 
