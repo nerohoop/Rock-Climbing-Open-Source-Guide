@@ -4,9 +4,9 @@
 
 ## About
 
-I love rock climbing so much and I always seek to improve my climbing skills. I have learned so much last year that I decide to share this list with all you guys. This is a collection of all the materials I found on the web during my 1 year rock climing journey. 
+This is a collection of free rock climbing tutorials on the web for those of you who are passionate about climbing and seeking to become a better climber. 
 
-If you have any suggestion or want to , you could send me an email.
+Whether you are a beginner with no experience at all or a veteran who has been climbing for years, I hope you can find something useful. 
 
 **Keep calm and climb on.**
 
