@@ -14,13 +14,14 @@ Whether you are a beginner with no experience at all or a veteran who has been c
 
 ## Content
 - [Introduction](#introduction)
-- [Gear](#gear)
-- [Knots](#knots)
-- [Belay](#belay)
-- [Lingo](#lingo)
+- [Rock Climbing Gear](#rock-climbing-gear)
+- [How to Tie Climbing Knots](#how-to-tie-climbing-knots)
+- [How to Belay](#how-to-belay)
+- [Understanding Climbing Grades](#understanding-climbing-grades)
+- [Understanding Climbing Lingo](#understanding-climbing-lingo)
+- [Top Rope Climbing](#top-rope-climbing)
 - [Lead Climbing](#lead-climbing)
 - [Bouldering](#bouldering)
-- [Climbing Grades](#climbing-grades)
 - [Rock Climbing Technique](#rock-climbing-technique)
 - [Rock Climbing Training](#rock-climbing-training)
 - [Rock Climbers](#rock-climbers)
@@ -42,7 +43,7 @@ Whether you are a beginner with no experience at all or a veteran who has been c
 
 [How to Get Started: 10 Pro Tips for Rock-Climbing Beginners](http://www.popularmechanics.com/adventure/outdoors/a9412/how-to-get-started-10-pro-tips-for-rock-climbing-beginners-15837589/)
 
-## Gear
+## Rock Climbing Gear
 [How to Dress for Indoor Rock Climbing](http://www.howcast.com/videos/512708-how-to-dress-for-indoor-climbing-rock-climbing/)
 
 [How to Pick the Right Harness for Indoor Climbing](http://www.howcast.com/videos/512710-how-to-pick-the-right-harness-rock-climbing/)
@@ -57,12 +58,12 @@ Whether you are a beginner with no experience at all or a veteran who has been c
 
 [How to fit a climbing harness](http://www.howcast.com/videos/512683-how-to-fit-a-climbing-harness-rock-climbing/)
 
-## Knots
+## How to Tie Climbing Knots
 [How to Tie Figure 8 Follow-Through Knot for Indoor Climbing](http://www.howcast.com/videos/512684-how-to-tie-figure-8-follow-through-knot-rock-climbing/)
 
 [How to Tie the Figure 8 Follow Through Loop](https://www.youtube.com/watch?v=aLopeVBb7yU&feature=youtu.be)
 
-## Belay
+## How to Belay
 [How to Set Up a Top-Rope Belay for Indoor Climbing](http://www.howcast.com/videos/512685-how-to-set-up-a-top-rope-belay-rock-climbing/)
 
 [How to Use Proper Top-Rope Belay Method for Indoor Climbing](http://www.howcast.com/videos/512686-how-to-use-proper-top-rope-belay-method-rock-climbing/)
@@ -71,7 +72,7 @@ Whether you are a beginner with no experience at all or a veteran who has been c
 
 [How to Use an Auto-Belay Device for Indoor Climbing](http://www.howcast.com/videos/512690-how-to-use-an-auto-belay-device-rock-climbing/)
 
-## Lingo
+## Understanding Climbing Lingo
 [How to Use Commands before Top-Rope Climbing](http://www.howcast.com/videos/512688-using-commands-before-top-rope-climbing-rock-climbing/)
 
 [How to Use Commands during Top-Rope Climbing](http://www.howcast.com/videos/512689-using-commands-during-top-rope-climbing-rock-climbing/)
@@ -79,6 +80,8 @@ Whether you are a beginner with no experience at all or a veteran who has been c
 [How to Understand Climbing Terminology](https://www.youtube.com/watch?v=nUJAI7CuRO0&index=2&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
 
 [How to Understand Indoor Rock Climbing Terminology](http://www.howcast.com/videos/512713-how-to-understand-climbing-terminology-rock-climbing/)
+
+## Tope Rope Climbing
 
 ## Lead Climbing 
 
