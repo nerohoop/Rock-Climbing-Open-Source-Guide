@@ -12,10 +12,6 @@ Whether you are a beginner with no experience at all or a veteran who has been c
 
 <img alt="keep-calm-and-climb-on" src="https://goo.gl/J1otLI">
 
-Always wanted to go climbing, but don’t know where to start? We’re here to help, with this basic guide to climbing styles, techniques, and jargon. Hopefully it helps remove some of the mystery, helps you figure out which disciplines you’d like to try, and makes it easier for you to get started.
-
-This is a collection of tutorials for those of you who want to learn **Rock Climbing** on your own time, **for free**.
-
 ## Content
 - [Introduction](#introduction)
 - [Gear](#gear)
