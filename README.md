@@ -4,6 +4,14 @@
 
 ## About
 
+I love rock climbing so much and I always seek to improve my climbing skills. I have learned so much last year that I decide to share this list with all you guys. This is a collection of all the materials I found on the web during my 1 year rock climing journey. 
+
+If you have any suggestion or want to , you could send me an email.
+
+**Keep calm and climb on.**
+
+<img alt="keep-calm-and-climb-on" src="https://goo.gl/J1otLI">
+
 Always wanted to go climbing, but don’t know where to start? We’re here to help, with this basic guide to climbing styles, techniques, and jargon. Hopefully it helps remove some of the mystery, helps you figure out which disciplines you’d like to try, and makes it easier for you to get started.
 
 This is a collection of tutorials for those of you who want to learn **Rock Climbing** on your own time, **for free**.
@@ -133,6 +141,10 @@ This is a collection of tutorials for those of you who want to learn **Rock Clim
 [How to Understand Indoor Rock Climbing Sequencing](http://www.howcast.com/guides/1108-how-to-rock-climb/)
 
 [How to Solve Rock Climbing Problems Based on Body Type](http://www.howcast.com/videos/512707-solving-problems-based-on-body-type-rock-climbing/)
+
+[Injury free movement for rock climbers](http://www.climbing.com/skills/injury-free-movement-for-rock-climbers/)
+
+[5 Tips for Better Balance](http://www.climbing.com/skills/5-tips-for-better-climbing-balance/)
 
 ## Rock Climbing Training
 
