@@ -72,6 +72,11 @@ Whether you are a beginner with no experience at all or a veteran who has been c
 
 [How to Use an Auto-Belay Device for Indoor Climbing](http://www.howcast.com/videos/512690-how-to-use-an-auto-belay-device-rock-climbing/)
 
+## Understanding Climbing Grades
+[Understanding Climbing Grades](http://www.climbing.com/skills/unsent-understanding-climbing-grades/)
+
+[How to Understand Indoor Climbing Grades](http://www.howcast.com/videos/512706-how-to-understand-climbing-grades-rock-climbing/)
+
 ## Understanding Climbing Lingo
 [How to Use Commands before Top-Rope Climbing](http://www.howcast.com/videos/512688-using-commands-before-top-rope-climbing-rock-climbing/)
 
@@ -105,10 +110,6 @@ Whether you are a beginner with no experience at all or a veteran who has been c
 
 [6 Bouldering Safety Tips for Indoor Rock Climbing](http://www.howcast.com/videos/512703-6-bouldering-safety-tips-rock-climbing/)
 
-## Climbing Grades
-[Understanding Climbing Grades](http://www.climbing.com/skills/unsent-understanding-climbing-grades/)
-
-[How to Understand Indoor Climbing Grades](http://www.howcast.com/videos/512706-how-to-understand-climbing-grades-rock-climbing/)
 
 ## Rock Climbing Technique
 [5 Fundamentals of Indoor Rock Climbing](http://www.howcast.com/videos/512680-5-Fundamentals-of-Indoor-Rock-Climbing-Rock-Climbing/)
