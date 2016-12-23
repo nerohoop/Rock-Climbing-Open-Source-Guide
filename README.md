@@ -24,10 +24,8 @@ Whether you are a beginner with no experience at all or a veteran who has been c
 - [Bouldering](#bouldering)
 - [Rock Climbing Technique](#rock-climbing-technique)
 - [Rock Climbing Training](#rock-climbing-training)
-- [Rock Climbers](#rock-climbers)
-- [Rock Climbing Inspiration](#rock-climbing-inspiration)
 - [Further Reading and Learning](#further-reading-and-learning)
-- [Apps](#apps)
+- [How to collaborate](#how-to-collaborate)
 
 ## Introduction
 
@@ -152,19 +150,17 @@ Whether you are a beginner with no experience at all or a veteran who has been c
 
 [How to Use a Hangboard for Indoor Climbing](http://www.howcast.com/videos/512715-how-to-use-a-hangboard-rock-climbing/)
 
-## Rock Climbers
-
 [Indoor Climbing Safety Guidelines & Etiquette](http://www.howcast.com/videos/512704-indoor-climbing-safety-etiquette-rock-climbing/)
 
-### Rock Climbing Inspiration
 [Matthew Childs 9 Rules of Rock Climbing](https://www.ted.com/talks/matthew_childs_9_rules_of_rock_climbing#t-31881)
 
 ### Further Reading and Learning
+
 [Dosage the Complete Box Set](https://goo.gl/C68p8J)
 
 <img alt="Bride Climbing" src="https://goo.gl/2xlqzn">
 
-## How to collaborate
+## How to Collaborate
 
 You can [open an issue](https://help.github.com/articles/creating-an-issue/) and give us your suggestions as to how we can improve this guide, or what we can do to improve the learning experience.
 
