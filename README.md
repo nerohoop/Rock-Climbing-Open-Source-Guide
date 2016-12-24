@@ -175,11 +175,12 @@ http://www.alpineinstitute.com/
 <img src="https://goo.gl/aK8jFH">
 
 [Valley Uprising](https://www.youtube.com/watch?v=o86TpaSBcWw)
+Generations of beatniks and madmen drop out of society and take up a life of rock climbing on the massive granite walls of Yosemite National Park.
 
-[Reel Rock Tour](http://www.reelrocktour.com/)
+[Reel Rock Film Tour](http://www.reelrocktour.com/)
+The REEL ROCK Film Tour brings the best climbing and adventure films of the year to live audiences throughout the world.
 
 [Sender Films](http://senderfilms.com/)
-
 
 ## How to Collaborate
 
@@ -192,7 +193,7 @@ I'd love to hear from you how I can improve this guide to help more and more cli
 
 ## Community
 
-Join our chat room! [![Join the chat at https://gitter.im/open-source-society/computer-science](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Rock-Climing-Open-Source-Guide/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
+Join our chat room! [![Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Rock-Climing-Open-Source-Guide/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
 
 
