@@ -172,12 +172,14 @@ http://www.alpineinstitute.com/
 
 ### Films
 
-**Must watch**
+<img src="https://goo.gl/aK8jFH">
+
+[Valley Uprising](https://www.youtube.com/watch?v=o86TpaSBcWw)
+
 [Reel Rock Tour](http://www.reelrocktour.com/)
 
 [Sender Films](http://senderfilms.com/)
 
-[Valley Uprising](https://www.youtube.com/watch?v=o86TpaSBcWw)
 
 ## How to Collaborate
 
