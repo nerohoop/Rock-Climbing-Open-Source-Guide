@@ -1,7 +1,5 @@
 # Rock Climbing Open Source Course
 
-<img alt="Cover" src="https://goo.gl/iCFgYT">
-
 ## About
 
 This is a collection of free rock climbing tutorials on the web for those of you who are passionate about climbing and seeking to become a better climber. 
@@ -89,7 +87,11 @@ Whether you are a beginner with no experience at all or a veteran who has been c
 
 ## Top Rope Climbing
 
+<img src="https://goo.gl/moGHWR">
+
 ## Lead Climbing 
+
+<img alt="Cover" src="https://goo.gl/iCFgYT">
 
 [Lead Climbing](https://www.youtube.com/watch?v=q4rVY3sLQqA)
 
@@ -113,6 +115,9 @@ Whether you are a beginner with no experience at all or a veteran who has been c
 
 
 ## Rock Climbing Technique
+
+<img src="https://goo.gl/cZu1SE">
+
 [5 Fundamentals of Indoor Rock Climbing](http://www.howcast.com/videos/512680-5-Fundamentals-of-Indoor-Rock-Climbing-Rock-Climbing/)
 
 [How to Grip Indoor Climbing Holds](http://www.howcast.com/videos/512681-how-to-grip-indoor-climbing-holds-rock-climbing/)
