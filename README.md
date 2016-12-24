@@ -42,6 +42,9 @@ Whether you are a beginner with no experience at all or a veteran who has been c
 [How to Get Started: 10 Pro Tips for Rock-Climbing Beginners](http://www.popularmechanics.com/adventure/outdoors/a9412/how-to-get-started-10-pro-tips-for-rock-climbing-beginners-15837589/)
 
 ## Rock Climbing Gear
+
+<img src="https://goo.gl/FZPSbo">
+
 [How to Dress for Indoor Rock Climbing](http://www.howcast.com/videos/512708-how-to-dress-for-indoor-climbing-rock-climbing/)
 
 [How to Pick the Right Harness for Indoor Climbing](http://www.howcast.com/videos/512710-how-to-pick-the-right-harness-rock-climbing/)
@@ -84,7 +87,7 @@ Whether you are a beginner with no experience at all or a veteran who has been c
 
 [How to Understand Indoor Rock Climbing Terminology](http://www.howcast.com/videos/512713-how-to-understand-climbing-terminology-rock-climbing/)
 
-## Tope Rope Climbing
+## Top Rope Climbing
 
 ## Lead Climbing 
 
