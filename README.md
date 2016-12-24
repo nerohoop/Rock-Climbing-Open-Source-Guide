@@ -174,10 +174,10 @@ http://www.alpineinstitute.com/
 
 <img src="https://goo.gl/aK8jFH">
 
-[Valley Uprising](https://www.youtube.com/watch?v=o86TpaSBcWw)
+[Valley Uprising - ](https://www.youtube.com/watch?v=o86TpaSBcWw)
 Generations of beatniks and madmen drop out of society and take up a life of rock climbing on the massive granite walls of Yosemite National Park.
 
-[Reel Rock Film Tour](http://www.reelrocktour.com/)
+[Reel Rock Film Tour - ](http://www.reelrocktour.com/)
 The REEL ROCK Film Tour brings the best climbing and adventure films of the year to live audiences throughout the world.
 
 [Sender Films](http://senderfilms.com/)
