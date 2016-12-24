@@ -166,33 +166,21 @@ Whether you are a beginner with no experience at all or a veteran who has been c
 
 [Dosage the Complete Box Set](https://goo.gl/C68p8J)
 
+http://www.alpineinstitute.com/
+
 <img alt="Bride Climbing" src="https://goo.gl/2xlqzn">
 
 ## How to Collaborate
 
-You can [open an issue](https://help.github.com/articles/creating-an-issue/) and give us your suggestions as to how we can improve this guide, or what we can do to improve the learning experience.
+If you find any mistakes, broken link or you want to suggest a new resource, don't hesitate to send me an [email](nerohoop@gmail.com). You can also summit any interesting articles, books, videos, apps.
 
-You can also [fork this project](https://help.github.com/articles/fork-a-repo/) and send a [pull request](https://help.github.com/articles/using-pull-requests/) to fix any mistakes that you have found.
+I'd love to hear from you how I can improve this guide to help more and more climbers. 
 
-If you want to suggest a new resource, send a pull request adding such resource to the [extras](https://github.com/open-source-society/computer-science/tree/master/extras) section.
-
-The **extras** section is a place where all of us will be able to submit interesting additional articles, books, courses and specializations, keeping our curriculum *as immutable and concise as possible*.
-
-**Let's do it together! =)**
+**Any Feedback is welcome**
 
 ## Community
 
-Subscribe to [/r/opensourcesociety](https://www.reddit.com/r/opensourcesociety/)!
+Join our chat room! [![Join the chat at https://gitter.im/open-source-society/computer-science](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Rock-Climing-Open-Source-Guide/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
 
-Join us in our [group](https://groups.google.com/forum/#!forum/open-source-society-university)!
 
-You can also interact through [GitHub issues](https://github.com/open-source-society/computer-science/issues).
-
-We also have a chat room! [![Join the chat at https://gitter.im/open-source-society/computer-science](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/open-source-society/computer-science?utm_campaign=pr-badge&utm_content=badge&utm_medium=badge&utm_source=badge)
-
-Add **Open Source Society University** to your [Facebook](https://www.facebook.com/ossuniversity) profile!
-
-> **ps**: A forum is an ideal way to interact with other students as we do not lose important discussions, which usually occur in communication via chat apps. **Please use our subreddit/group for important discussions**.
-
-http://www.alpineinstitute.com/
 
