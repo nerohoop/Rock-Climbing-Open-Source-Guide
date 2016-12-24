@@ -27,6 +27,8 @@ Whether you are a beginner with no experience at all or a veteran who has been c
 
 ## Introduction
 
+<img alt="Bride Climbing" src="https://goo.gl/2xlqzn">
+
 [How to rock climb](http://www.howcast.com/guides/1108-how-to-rock-climb/)
 
 [Rock Climbing for Beginners - Introduction To Rock Climbing](https://www.youtube.com/watch?v=gLfvk2SSj1c&t=4s)
@@ -162,17 +164,25 @@ Whether you are a beginner with no experience at all or a veteran who has been c
 
 [Matthew Childs 9 Rules of Rock Climbing](https://www.ted.com/talks/matthew_childs_9_rules_of_rock_climbing#t-31881)
 
-### Further Reading and Learning
+## Further Reading and Learning
 
 [Dosage the Complete Box Set](https://goo.gl/C68p8J)
 
 http://www.alpineinstitute.com/
 
-<img alt="Bride Climbing" src="https://goo.gl/2xlqzn">
+### Films
+
+**Must watch**
+[Reel Rock Tour](http://www.reelrocktour.com/)
+
+[Sender Films](http://senderfilms.com/)
+
+[Valley Uprising](https://www.youtube.com/watch?v=o86TpaSBcWw)
 
 ## How to Collaborate
 
-If you find any mistakes, broken link or you want to suggest a new resource, don't hesitate to send me an [email](nerohoop@gmail.com). You can also summit any interesting articles, books, videos, apps.
+If you find any mistakes, broken link or you want to suggest a new resource, don't hesitate to send me an 
+<a href="mailto:nerohoop@gmail.com">email</a>. You can also summit any interesting articles, books, videos, apps.
 
 I'd love to hear from you how I can improve this guide to help more and more climbers. 
 
