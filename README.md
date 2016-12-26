@@ -10,6 +10,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 **Keep calm and climb on.**
 
+<img src="img/climbon.png">
 
 ## Content
 - [Introduction](#introduction)
