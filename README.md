@@ -65,11 +65,11 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 ### Harness
 
-[How to Pick the Right Harness for Indoor Climbing](http://www.howcast.com/videos/512710-how-to-pick-the-right-harness-rock-climbing/)
-
 [How to fit a climbing harness](http://www.howcast.com/videos/512683-how-to-fit-a-climbing-harness-rock-climbing/)
 
 [How to Choose a Climbing Harness](https://www.youtube.com/watch?v=aRrLfR7rnw0&t=2s)
+
+[How to Pick the Right Harness for Indoor Climbing](http://www.howcast.com/videos/512710-how-to-pick-the-right-harness-rock-climbing/)
 
 [What Is The Best Entry-Level Climbing Harness?](https://www.youtube.com/watch?v=4qFu-_ctkuY)
 
