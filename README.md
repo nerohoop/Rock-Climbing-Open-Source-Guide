@@ -10,7 +10,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 **Keep calm and climb on.**
 
-<img alt="keep-calm-and-climb-on" src="https://goo.gl/J1otLI">
+<img src="img/gear.jpg">
 
 ## Content
 - [Introduction](#introduction)
@@ -29,7 +29,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 ## Introduction
 
-<img alt="Bride Climbing" src="https://goo.gl/2xlqzn">
+<img src="img/introduction.jpg">
 
 [How to rock climb](http://www.howcast.com/guides/1108-how-to-rock-climb/)
 
@@ -134,11 +134,10 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 ## Top Rope Climbing
 
-<img src="https://goo.gl/moGHWR">
 
 ## Lead Climbing 
 
-<img alt="Cover" src="https://goo.gl/iCFgYT">
+<img src="img/leadclimbing.jpg">
 
 [Lead Climbing](https://www.youtube.com/watch?v=q4rVY3sLQqA)
 
@@ -173,7 +172,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 ## Rock Climbing Technique
 
-<img src="https://goo.gl/cZu1SE">
+<img src="img/technique.jpg">
 
 ### Finger
 
