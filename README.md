@@ -52,7 +52,9 @@ You don't have to follow the order, you can choose whatever you want to learn.
 [Rock Climbing for Beginners - Rock Climbing Gear](https://www.youtube.com/watch?v=tXwV0YD222g)
 
 ### Shoes
+
 ### Rope
+
 ### Belay Device
 
 [How to Pick the Right Belay Device for Indoor Climbing](http://www.howcast.com/videos/512711-how-to-pick-the-right-belay-device-rock-climbing/)
@@ -70,7 +72,9 @@ You don't have to follow the order, you can choose whatever you want to learn.
 [How to Pick the Right Carabiners for Indoor Climbing](http://www.howcast.com/videos/512712-how-to-pick-the-right-carabiners-rock-climbing/)
 
 ### Quick Draws
+
 ### Helmet 
+
 ### Chalk
 
 ## How to Tie Climbing Knots
