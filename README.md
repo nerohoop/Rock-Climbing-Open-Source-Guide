@@ -6,6 +6,8 @@ This is a collection of free rock climbing tutorials on the web for those of you
 
 Whether you are a beginner with no experience at all or a veteran who has been climbing for years, I hope you can find something useful. 
 
+You don't have to follow the order, you can choose whatever you want to learn.
+
 **Keep calm and climb on.**
 
 <img alt="keep-calm-and-climb-on" src="https://goo.gl/J1otLI">
@@ -44,6 +46,15 @@ Whether you are a beginner with no experience at all or a veteran who has been c
 ## Rock Climbing Gear
 
 <img src="https://goo.gl/FZPSbo">
+
+Shoes
+Rope
+Belay Device
+Harness
+Carabiners
+Quick Draws
+Helmet 
+Chalk
 
 [How to Dress for Indoor Rock Climbing](http://www.howcast.com/videos/512708-how-to-dress-for-indoor-climbing-rock-climbing/)
 
