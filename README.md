@@ -10,7 +10,6 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 **Keep calm and climb on.**
 
-<img src="img/gear.jpg">
 
 ## Content
 - [Introduction](#introduction)
@@ -45,7 +44,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 ## Rock Climbing Gear
 
-<img src="https://goo.gl/FZPSbo">
+<img src="img/gear.jpg">
 
 [How to Dress for Indoor Rock Climbing](http://www.howcast.com/videos/512708-how-to-dress-for-indoor-climbing-rock-climbing/)
 
