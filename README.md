@@ -53,6 +53,10 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 ### Shoes
 
+[How to Choose Climbing Shoes](https://www.youtube.com/watch?v=jBa5TuXjHOE)
+
+[How To Pick The Perfect Climbing Shoe For You](https://www.youtube.com/watch?v=iTSr3VpFP_I)
+
 ### Rope
 
 ### Belay Device
@@ -65,17 +69,30 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [How to fit a climbing harness](http://www.howcast.com/videos/512683-how-to-fit-a-climbing-harness-rock-climbing/)
 
+[How to Choose a Climbing Harness](https://www.youtube.com/watch?v=aRrLfR7rnw0&t=2s)
+
+[What Is The Best Entry-Level Climbing Harness? | EpicTV Climbing Daily, Ep. 524](https://www.youtube.com/watch?v=4qFu-_ctkuY)
+
 ### Carabiners
 
 [Intro to Carabiners](https://www.youtube.com/watch?v=llUg6LhvryE&index=45&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
 
 [How to Pick the Right Carabiners for Indoor Climbing](http://www.howcast.com/videos/512712-how-to-pick-the-right-carabiners-rock-climbing/)
 
+[How to Choose Carabiners](https://www.youtube.com/watch?v=T8f_YnQGzA8)
+
+[All the Belay Devices Coming in 2017 - Black Diamond, Edelrid, Petzl, Wild Country](https://www.youtube.com/watch?v=xyGzwPBUszg)
+
+[What's The Best Carabiner For Use With Belay Devices? | Climbing Daily, Ep. 581](https://www.youtube.com/watch?v=Mb5x_2CNkEk)
+
 ### Quick Draws
 
 ### Helmet 
 
 ### Chalk
+
+[Climbing Tips: Chalking Up](https://www.youtube.com/watch?v=Xzu2Cy-Aets)
+
 
 ## How to Tie Climbing Knots
 [How to Tie Figure 8 Follow-Through Knot for Indoor Climbing](http://www.howcast.com/videos/512684-how-to-tie-figure-8-follow-through-knot-rock-climbing/)
@@ -90,6 +107,15 @@ You don't have to follow the order, you can choose whatever you want to learn.
 [How to Lower a Climber in Top-Rope Belay](http://www.howcast.com/videos/512687-how-to-lower-climber-in-top-rope-belay-rock-climbing/)
 
 [How to Use an Auto-Belay Device for Indoor Climbing](http://www.howcast.com/videos/512690-how-to-use-an-auto-belay-device-rock-climbing/)
+
+[How to belay the leader with a REVERSO](https://www.youtube.com/watch?v=ymJb6tW5_BE&index=7&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
+
+[How to belay the leader with a GRIGRI](https://www.youtube.com/watch?v=FHdqjjyeTtg&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq&index=6)
+
+[The World's Worst Belayer](https://www.youtube.com/watch?v=V9hsWjA3SmU)
+
+[Rock Climbing: How to Belay](https://www.youtube.com/watch?v=CFIz4cBFVro)
+
 
 ## Understanding Climbing Grades
 [Understanding Climbing Grades](http://www.climbing.com/skills/unsent-understanding-climbing-grades/)
@@ -125,6 +151,16 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [How to Spot for Indoor Rock Climbing](http://www.howcast.com/videos/512698-how-to-spot-for-indoor-climbing-rock-climbing/)
 
+[Rock Climbing: Lead Fall](https://www.youtube.com/watch?v=RJZ8OxYP5T4)
+
+[Rock Climbing: Building a Top-Rope Anchor Using the Quad](https://www.youtube.com/watch?v=9liByriQRag)
+
+[Rock Climbing: Cleaning a Top Rope Anchor](https://www.youtube.com/watch?v=NMSTNq6SZV0)
+
+### REI
+
+[Rock Climbing: Lead Belay](https://www.youtube.com/watch?v=S_F1MfVGOzk)
+
 ## Bouldering
 
 [Bouldering](https://www.youtube.com/watch?v=ddSTXPZuff8)
@@ -138,17 +174,41 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 <img src="https://goo.gl/cZu1SE">
 
-[5 Fundamentals of Indoor Rock Climbing](http://www.howcast.com/videos/512680-5-Fundamentals-of-Indoor-Rock-Climbing-Rock-Climbing/)
+### Finger
 
-[How to Grip Indoor Climbing Holds](http://www.howcast.com/videos/512681-how-to-grip-indoor-climbing-holds-rock-climbing/)
+[Rock Climbing: How to Climb Finger Cracks](https://www.youtube.com/watch?v=jzdgWsbGbMc)
+
+[Rock Climbing: How to Jam Hand Cracks](https://www.youtube.com/watch?v=l4EzbCLfUkc)
+
+### Feet 
 
 [How to Use Heel & Toe Hooks for Indoor Climbing](http://www.howcast.com/videos/512699-how-to-use-heel-toe-hooks-rock-climbing/)
 
-[How to belay the leader with a REVERSO](https://www.youtube.com/watch?v=ymJb6tW5_BE&index=7&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
+[Climbing Expert Advice: Foot position](https://www.youtube.com/watch?v=jhyyDBSnyUk)
 
-[How to belay the leader with a GRIGRI](https://www.youtube.com/watch?v=FHdqjjyeTtg&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq&index=6)
+### Balance 
 
-[The World's Worst Belayer](https://www.youtube.com/watch?v=V9hsWjA3SmU)
+[Climbing Expert Advice: Balance training](https://www.youtube.com/watch?v=4lyMr6LT9wM)
+
+### Climbing Holds
+
+[How to Grip Indoor Climbing Holds](http://www.howcast.com/videos/512681-how-to-grip-indoor-climbing-holds-rock-climbing/)
+
+[Rock Climbing: Climbing Holds](https://www.youtube.com/watch?v=9CuByOqafxA)
+
+### Misc
+
+[Rock Climbing: Climbing Techniques](https://www.youtube.com/watch?v=GdvmNTZzYZ4)
+
+[Rock Climibng: Climbing Moves](https://www.youtube.com/watch?v=iazQou-36sE)
+
+[Climbing Expert Advice: Rest position](https://www.youtube.com/watch?v=uoJBE-zRdKY)
+
+[5 Fundamentals of Indoor Rock Climbing](http://www.howcast.com/videos/512680-5-Fundamentals-of-Indoor-Rock-Climbing-Rock-Climbing/)
+
+[Rock Climbing: How to Rappel](https://www.youtube.com/watch?v=7U6tdEevJgs)
+
+
 
 [How to Use Chalk for Indoor Climbing](http://www.howcast.com/videos/512682-how-to-use-chalk-for-indoor-climbing-rock-climbing/)
 
