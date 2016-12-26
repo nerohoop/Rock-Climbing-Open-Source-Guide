@@ -71,7 +71,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [How to Choose a Climbing Harness](https://www.youtube.com/watch?v=aRrLfR7rnw0&t=2s)
 
-[What Is The Best Entry-Level Climbing Harness? | EpicTV Climbing Daily, Ep. 524](https://www.youtube.com/watch?v=4qFu-_ctkuY)
+[What Is The Best Entry-Level Climbing Harness?](https://www.youtube.com/watch?v=4qFu-_ctkuY)
 
 ### Carabiners
 
