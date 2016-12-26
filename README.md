@@ -81,9 +81,10 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [How to Choose Carabiners](https://www.youtube.com/watch?v=T8f_YnQGzA8)
 
+[What's The Best Carabiner For Use With Belay Devices?](https://www.youtube.com/watch?v=Mb5x_2CNkEk)
+
 [All the Belay Devices Coming in 2017 - Black Diamond, Edelrid, Petzl, Wild Country](https://www.youtube.com/watch?v=xyGzwPBUszg)
 
-[What's The Best Carabiner For Use With Belay Devices? | Climbing Daily, Ep. 581](https://www.youtube.com/watch?v=Mb5x_2CNkEk)
 
 ### Quick Draws
 
