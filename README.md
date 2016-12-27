@@ -94,13 +94,16 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Climbing Tips: Chalking Up](https://www.youtube.com/watch?v=Xzu2Cy-Aets)
 
+[How to Use Chalk for Indoor Climbing](http://www.howcast.com/videos/512682-how-to-use-chalk-for-indoor-climbing-rock-climbing/)
 
 ## How to Tie Climbing Knots
+
 [How to Tie Figure 8 Follow-Through Knot for Indoor Climbing](http://www.howcast.com/videos/512684-how-to-tie-figure-8-follow-through-knot-rock-climbing/)
 
 [How to Tie the Figure 8 Follow Through Loop](https://www.youtube.com/watch?v=aLopeVBb7yU&feature=youtu.be)
 
 ## How to Belay
+
 [How to Set Up a Top-Rope Belay for Indoor Climbing](http://www.howcast.com/videos/512685-how-to-set-up-a-top-rope-belay-rock-climbing/)
 
 [How to Use Proper Top-Rope Belay Method for Indoor Climbing](http://www.howcast.com/videos/512686-how-to-use-proper-top-rope-belay-method-rock-climbing/)
@@ -117,6 +120,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Rock Climbing: How to Belay](https://www.youtube.com/watch?v=CFIz4cBFVro)
 
+[Setting Up As The Belayer](https://www.youtube.com/watch?v=m-FbtppVC7w)
 
 ## Understanding Climbing Grades
 [Understanding Climbing Grades](http://www.climbing.com/skills/unsent-understanding-climbing-grades/)
@@ -190,39 +194,41 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Climbing Expert Advice: Balance training](https://www.youtube.com/watch?v=4lyMr6LT9wM)
 
+[Climbing Expert Advice: Rest position](https://www.youtube.com/watch?v=uoJBE-zRdKY)
+
+[5 Tips for Better Balance](http://www.climbing.com/skills/5-tips-for-better-climbing-balance/)
+
+
 ### Climbing Holds
 
 [How to Grip Indoor Climbing Holds](http://www.howcast.com/videos/512681-how-to-grip-indoor-climbing-holds-rock-climbing/)
 
 [Rock Climbing: Climbing Holds](https://www.youtube.com/watch?v=9CuByOqafxA)
 
-### Misc
+### Dyno
 
-[Rock Climbing: Climbing Techniques](https://www.youtube.com/watch?v=GdvmNTZzYZ4)
+[Static vs. Dynamic Movement in Indoor Rock Climbing](http://www.howcast.com/videos/512701-static-vs-dynamic-movement-rock-climbing/)
 
-[Rock Climibng: Climbing Moves](https://www.youtube.com/watch?v=iazQou-36sE)
+[How to Do a Dyno in Indoor Rock Climbing](http://www.howcast.com/videos/512702-how-to-do-a-dyno-in-indoor-climbing-rock-climbing/)
 
-[Climbing Expert Advice: Rest position](https://www.youtube.com/watch?v=uoJBE-zRdKY)
 
-[5 Fundamentals of Indoor Rock Climbing](http://www.howcast.com/videos/512680-5-Fundamentals-of-Indoor-Rock-Climbing-Rock-Climbing/)
+### Rappel
 
 [Rock Climbing: How to Rappel](https://www.youtube.com/watch?v=7U6tdEevJgs)
 
-
-
-[How to Use Chalk for Indoor Climbing](http://www.howcast.com/videos/512682-how-to-use-chalk-for-indoor-climbing-rock-climbing/)
+### Misc
 
 [Being The Climber](https://www.youtube.com/watch?v=QfTIUKyqCWc)
 
-[Setting Up As The Belayer](https://www.youtube.com/watch?v=m-FbtppVC7w)
+[5 Fundamentals of Indoor Rock Climbing](http://www.howcast.com/videos/512680-5-Fundamentals-of-Indoor-Rock-Climbing-Rock-Climbing/)
 
 [Climbing Technique 1](https://www.youtube.com/watch?v=jbIDnMmSLsc)
 
 [Climbing Technique 2](https://www.youtube.com/watch?v=gkMngYYadjE)
 
-[Static vs. Dynamic Movement in Indoor Rock Climbing](http://www.howcast.com/videos/512701-static-vs-dynamic-movement-rock-climbing/)
+[Rock Climibng: Climbing Moves](https://www.youtube.com/watch?v=iazQou-36sE)
 
-[How to Do a Dyno in Indoor Rock Climbing](http://www.howcast.com/videos/512702-how-to-do-a-dyno-in-indoor-climbing-rock-climbing/)
+[Rock Climbing: Climbing Techniques](https://www.youtube.com/watch?v=GdvmNTZzYZ4)
 
 [How to Understand Indoor Rock Climbing Sequencing](http://www.howcast.com/guides/1108-how-to-rock-climb/)
 
@@ -230,7 +236,6 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Injury free movement for rock climbers](http://www.climbing.com/skills/injury-free-movement-for-rock-climbers/)
 
-[5 Tips for Better Balance](http://www.climbing.com/skills/5-tips-for-better-climbing-balance/)
 
 ## Rock Climbing Training
 
@@ -259,6 +264,10 @@ Generations of beatniks and madmen drop out of society and take up a life of roc
 The REEL ROCK Film Tour brings the best climbing and adventure films of the year to live audiences throughout the world.
 
 [Sender Films](http://senderfilms.com/)
+
+### Books
+
+[Climbing Guidebooks](https://www.rei.com/c/climbing-guidebooks?r=c&ir=category%3Aclimbing-guidebooks&page=1)
 
 ## How to Collaborate
 
