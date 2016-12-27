@@ -57,6 +57,8 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [How To Pick The Perfect Climbing Shoe For You](https://www.youtube.com/watch?v=iTSr3VpFP_I)
 
+[Climbing Technique For Beginners - Episode - 4 - Shoes](https://www.youtube.com/watch?v=QBxukNzgjDg&t=101s)
+
 ### Rope
 
 ### Belay Device
@@ -180,11 +182,15 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 ### Finger
 
+[Climbing Technique For Beginners - Episode 2 - Hand Placement](https://www.youtube.com/watch?v=G634356Sti0)
+
 [Rock Climbing: How to Climb Finger Cracks](https://www.youtube.com/watch?v=jzdgWsbGbMc)
 
 [Rock Climbing: How to Jam Hand Cracks](https://www.youtube.com/watch?v=l4EzbCLfUkc)
 
-### Feet 
+### Foot work
+
+[Climbing Technique For Beginners - Episode 1- Foot Placement](https://www.youtube.com/watch?v=oqd39cc0HL0)
 
 [How to Use Heel & Toe Hooks for Indoor Climbing](http://www.howcast.com/videos/512699-how-to-use-heel-toe-hooks-rock-climbing/)
 
@@ -198,6 +204,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [5 Tips for Better Balance](http://www.climbing.com/skills/5-tips-for-better-climbing-balance/)
 
+[Climbing Technique For Beginners - Episode 5 - Hips](https://www.youtube.com/watch?v=jbj7XMLOWgE&t=196s)
 
 ### Climbing Holds
 
@@ -211,6 +218,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [How to Do a Dyno in Indoor Rock Climbing](http://www.howcast.com/videos/512702-how-to-do-a-dyno-in-indoor-climbing-rock-climbing/)
 
+[Climbing Technique For Intermediate - Episode 1 - Dynos](https://www.youtube.com/watch?v=XjUsX8X9XGw)
 
 ### Rappel
 
@@ -218,6 +226,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 ### Misc
 
+[](https://www.youtube.com/watch?v=oqd39cc0HL0&list=PLEFVa0JfTcMaFzxPj58KBEFl9KP4NwNOd)
 [Being The Climber](https://www.youtube.com/watch?v=QfTIUKyqCWc)
 
 [5 Fundamentals of Indoor Rock Climbing](http://www.howcast.com/videos/512680-5-Fundamentals-of-Indoor-Rock-Climbing-Rock-Climbing/)
@@ -236,6 +245,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Injury free movement for rock climbers](http://www.climbing.com/skills/injury-free-movement-for-rock-climbers/)
 
+[Climbing Technique For Beginners - Episode 3- Gym Routine](https://www.youtube.com/watch?v=q9fU-maafMQ)
 
 ## Rock Climbing Training
 
@@ -246,6 +256,12 @@ You don't have to follow the order, you can choose whatever you want to learn.
 [Indoor Climbing Safety Guidelines & Etiquette](http://www.howcast.com/videos/512704-indoor-climbing-safety-etiquette-rock-climbing/)
 
 [Matthew Childs 9 Rules of Rock Climbing](https://www.ted.com/talks/matthew_childs_9_rules_of_rock_climbing#t-31881)
+
+[Forearm Stretching Exercise And Wrist Exercise](https://www.youtube.com/watch?v=TeEvXluMFRs)
+
+[My Warm Up Routine For Climbing](https://www.youtube.com/watch?v=l7_1dHQJsyw&t=188s)
+
+[Rock Climbing Warmup and Flexibility Boost](https://www.youtube.com/watch?v=hHn9g7rJ4o8)
 
 ## Further Reading and Learning
 
