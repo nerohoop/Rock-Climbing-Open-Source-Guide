@@ -33,6 +33,8 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [How to rock climb](http://www.howcast.com/guides/1108-how-to-rock-climb/)
 
+[How to be a Rock Climber](https://youtu.be/FpZIT_I2_Oo)
+
 [Rock Climbing for Beginners - Introduction To Rock Climbing](https://www.youtube.com/watch?v=gLfvk2SSj1c&t=4s)
 
 [The 10 Things You Need to Know Before You Go Rock Climbing](http://greatist.com/move/rock-climbing-tips)
