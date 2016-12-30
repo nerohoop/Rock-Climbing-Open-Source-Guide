@@ -281,6 +281,10 @@ The REEL ROCK Film Tour brings the best climbing and adventure films of the year
 
 [Sender Films](http://senderfilms.com/)
 
+### Talks
+
+[What are you up against? - Tommy Caldwell](https://www.youtube.com/watch?v=PnMs_qLwaes)
+
 ### Books
 
 [Climbing Guidebooks](https://www.rei.com/c/climbing-guidebooks?r=c&ir=category%3Aclimbing-guidebooks&page=1)
