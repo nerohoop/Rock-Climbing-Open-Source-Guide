@@ -59,6 +59,8 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Climbing Technique For Beginners - Episode - 4 - Shoes](https://www.youtube.com/watch?v=QBxukNzgjDg&t=101s)
 
+[Review: Our Top Climbing Shoes For 2016](http://www.climbing.com/gear/review-our-top-climbing-shoes-for-2016/)
+
 ### Rope
 
 ### Belay Device
