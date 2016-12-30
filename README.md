@@ -1,4 +1,4 @@
-# Rock Climbing Open Source Course
+# Rock Climbing Open Source Guide
 
 ## About
 
