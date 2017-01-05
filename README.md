@@ -31,6 +31,8 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 <img src="img/introduction.jpg">
 
+http://gearpatrol.com/tag/rock-climbing/
+
 [How to rock climb](http://www.howcast.com/guides/1108-how-to-rock-climb/)
 
 [How to be a Rock Climber](https://youtu.be/FpZIT_I2_Oo)
