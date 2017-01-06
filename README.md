@@ -255,6 +255,12 @@ http://gearpatrol.com/tag/rock-climbing/
 
 ## Rock Climbing Training
 
+[Training for Climbing](https://www.youtube.com/watch?v=iTWPbSgKaWI)
+
+[GALINA PARFENOV TRAINING](http://www.parfenovtraining.com/)
+
+[Strength Training Tips From a Champion Climber](https://www.youtube.com/watch?v=D6y_GHkEtr0)
+
 [How to Use a Campus Board for Indoor Rock Climbing](http://www.howcast.com/videos/512714-how-to-use-a-campus-board-rock-climbing/)
 
 [How to Use a Hangboard for Indoor Climbing](http://www.howcast.com/videos/512715-how-to-use-a-hangboard-rock-climbing/)
@@ -292,6 +298,8 @@ The REEL ROCK Film Tour brings the best climbing and adventure films of the year
 [What are you up against? - Tommy Caldwell](https://www.youtube.com/watch?v=PnMs_qLwaes)
 
 [Just climb through it - Ashima Shiraishi](https://www.youtube.com/watch?v=dIz7n7KWlZY)
+
+[Why I Climb & How I Still Climb 5.13 When I'm Nearly 50](https://www.youtube.com/watch?v=uWnAuGO7niU)
 
 ### Books
 
