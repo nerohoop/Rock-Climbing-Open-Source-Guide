@@ -15,10 +15,14 @@ You don't have to follow the order, you can choose whatever you want to learn.
 ## Content
 - [Introduction](#introduction)
 - [Rock Climbing Gear](#rock-climbing-gear)
+  * [Shoes](#shoes)
+  * [Harness](#harness)
+  * [Carabiner](#carabiners)
 - [How to Tie Climbing Knots](#how-to-tie-climbing-knots)
 - [How to Belay](#how-to-belay)
 - [Understanding Climbing Grades](#understanding-climbing-grades)
 - [Understanding Climbing Lingo](#understanding-climbing-lingo)
+- [How to Build Anchors](#how-to-build-anchors)
 - [Top Rope Climbing](#top-rope-climbing)
 - [Lead Climbing](#lead-climbing)
 - [Bouldering](#bouldering)
@@ -35,6 +39,8 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [How to be a Rock Climber](https://youtu.be/FpZIT_I2_Oo)
 
+[Getting Started Rock Climbing](https://www.rei.com/learn/expert-advice/getting-started-rock-climbing.html)
+
 [Rock Climbing for Beginners - Introduction To Rock Climbing](https://www.youtube.com/watch?v=gLfvk2SSj1c&t=4s)
 
 [The 10 Things You Need to Know Before You Go Rock Climbing](http://greatist.com/move/rock-climbing-tips)
@@ -44,6 +50,8 @@ You don't have to follow the order, you can choose whatever you want to learn.
 [How to Rock Climb – The Beginners Guide](http://expertenough.com/690/rock-climbing)
 
 [How to Get Started: 10 Pro Tips for Rock-Climbing Beginners](http://www.popularmechanics.com/adventure/outdoors/a9412/how-to-get-started-10-pro-tips-for-rock-climbing-beginners-15837589/)
+
+[Indoor (Gym) Climbing Basics](https://www.rei.com/learn/expert-advice/indoor-climbing.html)
 
 ## Rock Climbing Gear
 
@@ -57,7 +65,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 ### Shoes
 
-[How to Choose Climbing Shoes](https://www.youtube.com/watch?v=jBa5TuXjHOE)
+[How to Choose the Best Rock Climbing Shoes](https://www.rei.com/learn/expert-advice/rock-shoes.html)
 
 [How To Pick The Perfect Climbing Shoe For You](https://www.youtube.com/watch?v=iTSr3VpFP_I)
 
@@ -65,13 +73,9 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Review: Our Top Climbing Shoes For 2016](http://www.climbing.com/gear/review-our-top-climbing-shoes-for-2016/)
 
-### Rope
-
-### Belay Device
-
-[How to Pick the Right Belay Device for Indoor Climbing](http://www.howcast.com/videos/512711-how-to-pick-the-right-belay-device-rock-climbing/)
-
 ### Harness
+
+[How to Choose the Best Climbing Harness](https://www.rei.com/learn/expert-advice/climbing-harness.html)
 
 [How to fit a climbing harness](http://www.howcast.com/videos/512683-how-to-fit-a-climbing-harness-rock-climbing/)
 
@@ -83,6 +87,8 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 ### Carabiners
 
+[Carabiners: How to Choose](https://www.rei.com/learn/expert-advice/carabiners.html)
+
 [Intro to Carabiners](https://www.youtube.com/watch?v=llUg6LhvryE&index=45&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
 
 [How to Pick the Right Carabiners for Indoor Climbing](http://www.howcast.com/videos/512712-how-to-pick-the-right-carabiners-rock-climbing/)
@@ -93,24 +99,53 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [All the Belay Devices Coming in 2017 - Black Diamond, Edelrid, Petzl, Wild Country](https://www.youtube.com/watch?v=xyGzwPBUszg)
 
+### Rope
+
+[Climbing Ropes: How to Choose](https://www.rei.com/learn/expert-advice/ropes.html)
+
+[Climbing Slings, Cord and Webbing: How to Choose](https://www.rei.com/learn/expert-advice/slings-cord-webbing.html)
+
+[How to Clean & Wash Climbing Rope: Care Guide](https://www.rei.com/learn/expert-advice/rope-care.html)
+
+### Belay Device
+
+[ Belay Devices: How to Choose](https://www.rei.com/learn/expert-advice/belay-device.html)
+
+[How to Pick the Right Belay Device for Indoor Climbing](http://www.howcast.com/videos/512711-how-to-pick-the-right-belay-device-rock-climbing/)
 
 ### Quick Draws
 
+[Quickdraws: How to Choose](https://www.rei.com/learn/expert-advice/quickdraws.html)
+
 ### Helmet 
 
+[How to Choose the Best Climbing Helmet](https://www.rei.com/learn/expert-advice/climbing-helmet.html)
+
 ### Chalk
+
+[How to Choose the Best Chalk Bags & Chalk](https://www.rei.com/learn/expert-advice/chalk-chalk-bags.html)
 
 [Climbing Tips: Chalking Up](https://www.youtube.com/watch?v=Xzu2Cy-Aets)
 
 [How to Use Chalk for Indoor Climbing](http://www.howcast.com/videos/512682-how-to-use-chalk-for-indoor-climbing-rock-climbing/)
 
+## Cams
+
+[Climbing Cams & Tube Chocks: Active Climbing Protection](https://www.rei.com/learn/expert-advice/active-rock-climbing-protection.html)
+
+[Passive Climbing Protection: Hexes, Chocks & Nuts](https://www.rei.com/learn/expert-advice/passive-rock-climbing-protection.html)
+
 ## How to Tie Climbing Knots
+
+[Climbing Knots, Hitches and Bends](https://www.rei.com/learn/expert-advice/climbing-knots.html)
 
 [How to Tie Figure 8 Follow-Through Knot for Indoor Climbing](http://www.howcast.com/videos/512684-how-to-tie-figure-8-follow-through-knot-rock-climbing/)
 
 [How to Tie the Figure 8 Follow Through Loop](https://www.youtube.com/watch?v=aLopeVBb7yU&feature=youtu.be)
 
 ## How to Belay
+
+[How to Belay](https://www.rei.com/learn/expert-advice/belay.html)
 
 [How to Set Up a Top-Rope Belay for Indoor Climbing](http://www.howcast.com/videos/512685-how-to-set-up-a-top-rope-belay-rock-climbing/)
 
@@ -119,6 +154,8 @@ You don't have to follow the order, you can choose whatever you want to learn.
 [How to Lower a Climber in Top-Rope Belay](http://www.howcast.com/videos/512687-how-to-lower-climber-in-top-rope-belay-rock-climbing/)
 
 [How to Use an Auto-Belay Device for Indoor Climbing](http://www.howcast.com/videos/512690-how-to-use-an-auto-belay-device-rock-climbing/)
+
+[How to Belay a Lead Climber](https://www.rei.com/learn/expert-advice/belay-lead-climber.html)
 
 [How to belay the leader with a REVERSO](https://www.youtube.com/watch?v=ymJb6tW5_BE&index=7&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
 
@@ -131,11 +168,15 @@ You don't have to follow the order, you can choose whatever you want to learn.
 [Setting Up As The Belayer](https://www.youtube.com/watch?v=m-FbtppVC7w)
 
 ## Understanding Climbing Grades
+
+[Climbing Grades: Climbing/Bouldering Rating Systems](https://www.rei.com/learn/expert-advice/climbing-bouldering-rating.html)
+
 [Understanding Climbing Grades](http://www.climbing.com/skills/unsent-understanding-climbing-grades/)
 
 [How to Understand Indoor Climbing Grades](http://www.howcast.com/videos/512706-how-to-understand-climbing-grades-rock-climbing/)
 
 ## Understanding Climbing Lingo
+
 [How to Use Commands before Top-Rope Climbing](http://www.howcast.com/videos/512688-using-commands-before-top-rope-climbing-rock-climbing/)
 
 [How to Use Commands during Top-Rope Climbing](http://www.howcast.com/videos/512689-using-commands-during-top-rope-climbing-rock-climbing/)
@@ -143,6 +184,12 @@ You don't have to follow the order, you can choose whatever you want to learn.
 [How to Understand Climbing Terminology](https://www.youtube.com/watch?v=nUJAI7CuRO0&index=2&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
 
 [How to Understand Indoor Rock Climbing Terminology](http://www.howcast.com/videos/512713-how-to-understand-climbing-terminology-rock-climbing/)
+
+## How to Build Anchors
+
+[How to Build Rock Climbing Anchors](https://www.rei.com/learn/expert-advice/climbing-anchors.html)
+
+[How to Set and Clean a Top-Rope Anchor](https://www.rei.com/learn/expert-advice/set-and-clean-anchors.html)
 
 ## Top Rope Climbing
 
@@ -152,6 +199,10 @@ You don't have to follow the order, you can choose whatever you want to learn.
 <img src="img/leadclimbing.jpg">
 
 [Lead Climbing](https://www.youtube.com/watch?v=q4rVY3sLQqA)
+
+[Lead Climbing Basics](https://www.rei.com/learn/expert-advice/lead-climbing-basics.html)
+
+[How to Use a Quickdraw: Clipping Techniques](https://www.rei.com/learn/expert-advice/clip-quickdraws.html)
 
 [How to Clip on Lead for Indoor Rock Climbing](http://www.howcast.com/videos/512694-how-to-clip-on-lead-for-indoor-climbing-rock-climbing/)
 
@@ -169,9 +220,9 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Rock Climbing: Cleaning a Top Rope Anchor](https://www.youtube.com/watch?v=NMSTNq6SZV0)
 
-### REI
-
 [Rock Climbing: Lead Belay](https://www.youtube.com/watch?v=S_F1MfVGOzk)
+
+[Lead Climbing: How to Fall](https://www.rei.com/learn/expert-advice/climbing-how-to-fall.html)
 
 ## Bouldering
 
@@ -181,12 +232,25 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [6 Bouldering Safety Tips for Indoor Rock Climbing](http://www.howcast.com/videos/512703-6-bouldering-safety-tips-rock-climbing/)
 
+## Trad Climbing
+
+[Trad Rack Basics: Build a Climbing Rack](https://www.rei.com/learn/expert-advice/basics-gear-racking.html)
+
+[Lead Climbing: How to Place Trad Gear](https://www.rei.com/learn/expert-advice/place-trad-gear.html)
+
+## Crack Climbing
+
+[How to Crack Climb: Technique & Tips](https://www.rei.com/learn/expert-advice/crack-climbing.html)
+
+[How to Climb Finger Cracks](https://www.rei.com/learn/expert-advice/climb-finger-cracks.html)
 
 ## Rock Climbing Technique
 
 <img src="img/technique.jpg">
 
 ### Finger
+
+[Climbing Holds: How to Use Them](https://www.rei.com/learn/expert-advice/climbing-holds.html)
 
 [Climbing Technique For Beginners - Episode 2 - Hand Placement](https://www.youtube.com/watch?v=G634356Sti0)
 
@@ -228,11 +292,18 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 ### Rappel
 
+[How to Rappel](https://www.rei.com/learn/expert-advice/how-to-rappel.html)
+
 [Rock Climbing: How to Rappel](https://www.youtube.com/watch?v=7U6tdEevJgs)
 
 ### Misc
 
 [](https://www.youtube.com/watch?v=oqd39cc0HL0&list=PLEFVa0JfTcMaFzxPj58KBEFl9KP4NwNOd)
+
+[Gym to Crag: Learning to Climb Outdoors](https://www.rei.com/learn/expert-advice/learning-climb-outdoors.html)
+
+[Rock Climbing Techniques & Moves](https://www.rei.com/learn/expert-advice/climbing-techniques.html)
+
 [Being The Climber](https://www.youtube.com/watch?v=QfTIUKyqCWc)
 
 [5 Fundamentals of Indoor Rock Climbing](http://www.howcast.com/videos/512680-5-Fundamentals-of-Indoor-Rock-Climbing-Rock-Climbing/)
