@@ -31,8 +31,6 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 <img src="img/introduction.jpg">
 
-http://gearpatrol.com/tag/rock-climbing/
-
 [How to rock climb](http://www.howcast.com/guides/1108-how-to-rock-climb/)
 
 [How to be a Rock Climber](https://youtu.be/FpZIT_I2_Oo)
@@ -50,6 +48,8 @@ http://gearpatrol.com/tag/rock-climbing/
 ## Rock Climbing Gear
 
 <img src="img/gear.jpg">
+
+[Guide to Beginner Rock Climbing Essentials](http://gearpatrol.com/2014/11/14/kit-beginner-rock-climbing-gear/)
 
 [How to Dress for Indoor Rock Climbing](http://www.howcast.com/videos/512708-how-to-dress-for-indoor-climbing-rock-climbing/)
 
