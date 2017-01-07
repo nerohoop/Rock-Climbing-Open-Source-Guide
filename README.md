@@ -53,9 +53,13 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Indoor (Gym) Climbing Basics](https://www.rei.com/learn/expert-advice/indoor-climbing.html)
 
+[Sport Climbing Basics: Tips & Technique](https://www.rei.com/learn/expert-advice/sport-climbing-basics.html)
+
 ## Rock Climbing Gear
 
 <img src="img/gear.jpg">
+
+[Sport Climbing Checklist](https://www.rei.com/learn/expert-advice/sport-climbing-checklist.html)
 
 [Guide to Beginner Rock Climbing Essentials](http://gearpatrol.com/2014/11/14/kit-beginner-rock-climbing-gear/)
 
@@ -72,6 +76,8 @@ You don't have to follow the order, you can choose whatever you want to learn.
 [Climbing Technique For Beginners - Episode - 4 - Shoes](https://www.youtube.com/watch?v=QBxukNzgjDg&t=101s)
 
 [Review: Our Top Climbing Shoes For 2016](http://www.climbing.com/gear/review-our-top-climbing-shoes-for-2016/)
+
+[Climbing Shoes: How to Clean, Resole & Care For](https://www.rei.com/learn/expert-advice/rock-shoe-care-repair.html)
 
 ### Harness
 
@@ -129,7 +135,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [How to Use Chalk for Indoor Climbing](http://www.howcast.com/videos/512682-how-to-use-chalk-for-indoor-climbing-rock-climbing/)
 
-## Cams
+### Cams
 
 [Climbing Cams & Tube Chocks: Active Climbing Protection](https://www.rei.com/learn/expert-advice/active-rock-climbing-protection.html)
 
@@ -184,6 +190,8 @@ You don't have to follow the order, you can choose whatever you want to learn.
 [How to Understand Climbing Terminology](https://www.youtube.com/watch?v=nUJAI7CuRO0&index=2&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
 
 [How to Understand Indoor Rock Climbing Terminology](http://www.howcast.com/videos/512713-how-to-understand-climbing-terminology-rock-climbing/)
+
+[Rock Climbing Glossary](https://www.rei.com/learn/expert-advice/rock-climbing-glossary.html)
 
 ## How to Build Anchors
 
@@ -325,6 +333,8 @@ You don't have to follow the order, you can choose whatever you want to learn.
 [Climbing Technique For Beginners - Episode 3- Gym Routine](https://www.youtube.com/watch?v=q9fU-maafMQ)
 
 ## Rock Climbing Training
+
+[Rock Climbing/Bouldering Cross Training Tips](https://www.rei.com/learn/expert-advice/rock-climbing-how-to-cross-train.html)
 
 [Training for Climbing](https://www.youtube.com/watch?v=iTWPbSgKaWI)
 
