@@ -420,6 +420,8 @@ The REEL ROCK Film Tour brings the best climbing and adventure films of the year
 
 [Climbing](http://www.climbing.com/gear/)
 
+[Adventure Journal](https://www.adventure-journal.com/)
+
 ## How to Collaborate
 
 If you find any mistakes, broken link or you want to suggest a new resource, don't hesitate to send me an 
