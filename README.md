@@ -69,6 +69,14 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 ### Shoes
 
+[How to choose your climbing shoes by Pietro Dal Pra - part 1 of 4 intro](https://www.youtube.com/watch?v=OAjTLsG8sjo&index=1&list=PLdryj12mbHdJy3cBHt9JUgihf77rJa8fx)
+
+[BEST ROCK CLIMBING SHOES FOR BEGINNERS](http://www.switchbacktravel.com/best-climbing-shoes-beginners)
+
+[BEST ROCK CLIMBING SHOES OF 2016](http://www.switchbacktravel.com/best-rock-climbing-shoes)
+
+[2017 New Climbing Shoes - See Them All!](https://www.youtube.com/watch?v=H4E5LAuNJXE&t=793s)
+
 [How to Choose the Best Rock Climbing Shoes](https://www.rei.com/learn/expert-advice/rock-shoes.html)
 
 [How To Pick The Perfect Climbing Shoe For You](https://www.youtube.com/watch?v=iTSr3VpFP_I)
@@ -78,6 +86,16 @@ You don't have to follow the order, you can choose whatever you want to learn.
 [Review: Our Top Climbing Shoes For 2016](http://www.climbing.com/gear/review-our-top-climbing-shoes-for-2016/)
 
 [Climbing Shoes: How to Clean, Resole & Care For](https://www.rei.com/learn/expert-advice/rock-shoe-care-repair.html)
+
+[2016 Climbing Shoe Highlights](https://www.youtube.com/watch?v=NVRnX3pHcrs)
+
+[The Best Rock Climbing Shoes for Indoor and Outdoor Use](http://www.bestproducts.com/fitness/equipment/g344/rock-climbing-shoes-for-every-level/)
+
+[Rock Climbing Shoes, from Beginner to Expert](http://gearpatrol.com/2016/07/08/best-rock-climbing-shoes/)
+
+[Gear Guide: Review of the Best Shoes for Bouldering, Sport, and Trad Climbing](http://mojagear.com/best-rock-climbing-gear-guides/climbing-shoes/)
+
+[Review: Our Top 11 Rock Climbing Shoes](http://www.climbing.com/gear/review-our-top-5-performance-rock-climbing-shoes/)
 
 ### Harness
 
@@ -107,6 +125,8 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 ### Rope
 
+[Best Climbing Ropes: The Top 6 of 2017](https://www.99boulders.com/best-climbing-ropes)
+
 [Climbing Ropes: How to Choose](https://www.rei.com/learn/expert-advice/ropes.html)
 
 [Climbing Slings, Cord and Webbing: How to Choose](https://www.rei.com/learn/expert-advice/slings-cord-webbing.html)
@@ -122,6 +142,8 @@ You don't have to follow the order, you can choose whatever you want to learn.
 ### Quick Draws
 
 [Quickdraws: How to Choose](https://www.rei.com/learn/expert-advice/quickdraws.html)
+
+[Best Quickdraws: The Top 5 of 2017](https://www.99boulders.com/best-quickdraws)
 
 ### Helmet 
 
@@ -384,13 +406,19 @@ The REEL ROCK Film Tour brings the best climbing and adventure films of the year
 
 ### Books
 
-[Climbing Guidebooks](https://www.rei.com/c/climbing-guidebooks?r=c&ir=category%3Aclimbing-guidebooks&page=1)
+[Top 25 Best Rock Climbing Books](http://mojagear.com/journal/2016/02/02/25-books-every-climber-should-read/)
 
 ### Apps
 
 [ClimbingAway](https://itunes.apple.com/us/app/climbingaway-ultimate-rock/id408499277?mt=8) - ClimbingAway indexes more than 6000 rock climbing areas all around the world with maximum of informations, accurate locations, gorgeous pictures, frequently updated by climbers community.
 
 [MyClimb](https://itunes.apple.com/us/app/myclimb-log-share-your-climbing/id925359604?ls=1&mt=8) - Log your climbs and track climbing progress. Find climbing partners. Learn about new areas from others climbers and photos / video.
+
+### Websites
+
+[Moja Gear](http://mojagear.com/)
+
+[Climbing](http://www.climbing.com/gear/)
 
 ## How to Collaborate
 
