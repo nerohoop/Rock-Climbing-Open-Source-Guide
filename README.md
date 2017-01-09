@@ -278,6 +278,12 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 <img src="img/technique.jpg">
 
+### Climbing Holds
+
+[How to Grip Indoor Climbing Holds](http://www.howcast.com/videos/512681-how-to-grip-indoor-climbing-holds-rock-climbing/)
+
+[Rock Climbing: Climbing Holds](https://www.youtube.com/watch?v=9CuByOqafxA)
+
 ### Finger
 
 [Climbing Holds: How to Use Them](https://www.rei.com/learn/expert-advice/climbing-holds.html)
@@ -288,7 +294,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Rock Climbing: How to Jam Hand Cracks](https://www.youtube.com/watch?v=l4EzbCLfUkc)
 
-### Foot work
+### Foot work (*)
 
 [Climbing Technique For Beginners - Episode 1- Foot Placement](https://www.youtube.com/watch?v=oqd39cc0HL0)
 
@@ -296,23 +302,29 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Climbing Expert Advice: Foot position](https://www.youtube.com/watch?v=jhyyDBSnyUk)
 
-### Balance 
+### Balance (*)
+
+[5 Tips for Better Balance](http://www.climbing.com/skills/5-tips-for-better-climbing-balance/)
 
 [Climbing Expert Advice: Balance training](https://www.youtube.com/watch?v=4lyMr6LT9wM)
 
 [Climbing Expert Advice: Rest position](https://www.youtube.com/watch?v=uoJBE-zRdKY)
 
-[5 Tips for Better Balance](http://www.climbing.com/skills/5-tips-for-better-climbing-balance/)
-
 [Climbing Technique For Beginners - Episode 5 - Hips](https://www.youtube.com/watch?v=jbj7XMLOWgE&t=196s)
 
-### Climbing Holds
+### Flag 
 
-[How to Grip Indoor Climbing Holds](http://www.howcast.com/videos/512681-how-to-grip-indoor-climbing-holds-rock-climbing/)
+[Climbing Techniques: How to Flag](http://www.climbing.com/skills/climbing-techniques-how-to-flag/)
 
-[Rock Climbing: Climbing Holds](https://www.youtube.com/watch?v=9CuByOqafxA)
+[Rock Climbing Technique for Intermediates : Flagging](https://www.youtube.com/watch?v=nOkv9uFHojU&t=145s)
 
-### Dyno
+[8 Neil Greshams Masterclass - Flag](https://www.youtube.com/watch?v=ts2jrYSsisA)
+
+[Depot Climbing technique: flagging](https://www.youtube.com/watch?v=URXTJGELuAo)
+
+[PG Climbing Basics Episode 8: Flagging with John](https://www.youtube.com/watch?v=cSGQsQ1w2ok)
+
+### Dyno (*)
 
 [Static vs. Dynamic Movement in Indoor Rock Climbing](http://www.howcast.com/videos/512701-static-vs-dynamic-movement-rock-climbing/)
 
@@ -320,7 +332,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Climbing Technique For Intermediate - Episode 1 - Dynos](https://www.youtube.com/watch?v=XjUsX8X9XGw)
 
-### Rappel
+### Rappel (*)
 
 [How to Rappel](https://www.rei.com/learn/expert-advice/how-to-rappel.html)
 
