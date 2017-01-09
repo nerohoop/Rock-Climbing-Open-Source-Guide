@@ -324,13 +324,19 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [PG Climbing Basics Episode 8: Flagging with John](https://www.youtube.com/watch?v=cSGQsQ1w2ok)
 
-### Dyno (*)
+### Dyno
 
 [Static vs. Dynamic Movement in Indoor Rock Climbing](http://www.howcast.com/videos/512701-static-vs-dynamic-movement-rock-climbing/)
 
 [How to Do a Dyno in Indoor Rock Climbing](http://www.howcast.com/videos/512702-how-to-do-a-dyno-in-indoor-climbing-rock-climbing/)
 
 [Climbing Technique For Intermediate - Episode 1 - Dynos](https://www.youtube.com/watch?v=XjUsX8X9XGw)
+
+[Rock Climbing : How to Dyno in Rock Climbing](https://www.youtube.com/watch?v=at8e-jBBU5E)
+
+[Bouldering – How to Dyno](http://threerockbooks.com/index.php/bouldering-dyno/)
+
+[10 Things You Didn't Know about Dynos](http://www.climbing.com/news/10-things-you-didnt-know-about-dynos/)
 
 ### Rappel (*)
 
