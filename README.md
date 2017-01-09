@@ -344,7 +344,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Rock Climbing: How to Rappel](https://www.youtube.com/watch?v=7U6tdEevJgs)
 
-### Misc
+### Misc (*)
 
 [](https://www.youtube.com/watch?v=oqd39cc0HL0&list=PLEFVa0JfTcMaFzxPj58KBEFl9KP4NwNOd)
 
@@ -372,7 +372,27 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Climbing Technique For Beginners - Episode 3- Gym Routine](https://www.youtube.com/watch?v=q9fU-maafMQ)
 
-## Rock Climbing Training
+## Rock Climbing Training (*)
+
+[Rock Climbing Training with Robbie Phillips - Ep. 1 (Theory of Training)](https://www.youtube.com/watch?v=2s99suMzyiU)
+
+[Rock Climbing Training with Robbie Phillips - Ep. 2 (Base Level Endurance)](https://www.youtube.com/watch?v=yksFdXDglj4)
+
+[Rock Climbing Training with Robbie Phillips - Ep. 3 (Strength Basics)](https://www.youtube.com/watch?v=e4pGrqbNJCs)
+
+[Rock Climbing Training with Robbie Phillips - Ep. 4 (Power Endurance)](https://www.youtube.com/watch?v=4sMC9zk2MTo)
+
+[Rock Climbing Training with Robbie Phillips - Ep. 5 (The Art of Resting)](https://www.youtube.com/watch?v=TDeDX7kLE3E)
+
+[Rock Climbing Training with Robbie Phillips - Ep. 6 (Transfer)](https://www.youtube.com/watch?v=rVPslkZ1QsI)
+
+[Rock Climbing Training with Robbie Phillips - Ep. 7 (Outtakes)](https://www.youtube.com/watch?v=pMDc6MsrmaI)
+
+[Core Exercises For Climbers](https://www.youtube.com/watch?v=UB5pthj0buQ)
+
+[8 Pro Climbers Share Their Top Training Tips](http://www.climbing.com/skills/8-pro-climbers-share-their-top-training-tips/)
+
+[The Ultimate Indoor Rock Climbing Workout](http://www.mensfitness.com/life/outdoor/ultimate-indoor-rock-climbing-workout)
 
 [Rock Climbing/Bouldering Cross Training Tips](https://www.rei.com/learn/expert-advice/rock-climbing-how-to-cross-train.html)
 
