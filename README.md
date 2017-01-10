@@ -466,6 +466,8 @@ The REEL ROCK Film Tour brings the best climbing and adventure films of the year
 
 [Rakkup](http://rakkup.com/guidebooks/) - They digitalize lots of guide books
 
+[Reddit](https://www.reddit.com/r/climbing/wiki/index)
+
 ### Apps
 
 [ClimbingAway](https://itunes.apple.com/us/app/climbingaway-ultimate-rock/id408499277?mt=8) - ClimbingAway indexes more than 6000 rock climbing areas all around the world with maximum of informations, accurate locations, gorgeous pictures, frequently updated by climbers community.
