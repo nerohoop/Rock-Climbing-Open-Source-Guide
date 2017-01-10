@@ -448,6 +448,8 @@ The REEL ROCK Film Tour brings the best climbing and adventure films of the year
 
 ### Websites (*)
 
+[Epic TV](http://www.epictv.com/)
+
 [27 Crags](https://27crags.com/)
 
 [Moja Gear](http://mojagear.com/)
