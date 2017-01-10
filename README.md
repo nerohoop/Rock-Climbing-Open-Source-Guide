@@ -446,19 +446,31 @@ The REEL ROCK Film Tour brings the best climbing and adventure films of the year
 
 [Top 25 Best Rock Climbing Books](http://mojagear.com/journal/2016/02/02/25-books-every-climber-should-read/)
 
-### Apps
+### Websites (*)
 
-[ClimbingAway](https://itunes.apple.com/us/app/climbingaway-ultimate-rock/id408499277?mt=8) - ClimbingAway indexes more than 6000 rock climbing areas all around the world with maximum of informations, accurate locations, gorgeous pictures, frequently updated by climbers community.
-
-[MyClimb](https://itunes.apple.com/us/app/myclimb-log-share-your-climbing/id925359604?ls=1&mt=8) - Log your climbs and track climbing progress. Find climbing partners. Learn about new areas from others climbers and photos / video.
-
-### Websites
+[27 Crags](https://27crags.com/)
 
 [Moja Gear](http://mojagear.com/)
 
 [Climbing](http://www.climbing.com/gear/)
 
 [Adventure Journal](https://www.adventure-journal.com/)
+
+[The Crag](https://www.thecrag.com/) - The largest collaborative rock climbing & bouldering platform
+
+[Mountain Project](https://www.mountainproject.com/) Good US/Canada-coverage, fairly useless elsewhere, OK interface, generally not a good crag guide
+
+[Climbing Away](http://climbingaway.fr/en/) 
+
+[Topo Hawk](http://topohawk.com/)
+
+[Rakkup](http://rakkup.com/guidebooks/) - They digitalize lots of guide books
+
+### Apps
+
+[ClimbingAway](https://itunes.apple.com/us/app/climbingaway-ultimate-rock/id408499277?mt=8) - ClimbingAway indexes more than 6000 rock climbing areas all around the world with maximum of informations, accurate locations, gorgeous pictures, frequently updated by climbers community.
+
+[MyClimb](https://itunes.apple.com/us/app/myclimb-log-share-your-climbing/id925359604?ls=1&mt=8) - Log your climbs and track climbing progress. Find climbing partners. Learn about new areas from others climbers and photos / video.
 
 ## How to Collaborate
 
