@@ -388,6 +388,9 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Rock Climbing Training with Robbie Phillips - Ep. 7 (Outtakes)](https://www.youtube.com/watch?v=pMDc6MsrmaI)
 
+[Further reading: Climbing Training With Robbie Phillips](http://www.edelrid.de/en/climbing-training-with-robbie-phillips/)
+
+
 [Core Exercises For Climbers](https://www.youtube.com/watch?v=UB5pthj0buQ)
 
 [8 Pro Climbers Share Their Top Training Tips](http://www.climbing.com/skills/8-pro-climbers-share-their-top-training-tips/)
