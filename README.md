@@ -459,6 +459,8 @@ The REEL ROCK Film Tour brings the best climbing and adventure films of the year
 
 [Climbing](http://www.climbing.com/gear/)
 
+[Three Rock Books](http://threerockbooks.com/)
+
 [Adventure Journal](https://www.adventure-journal.com/)
 
 [The Crag](https://www.thecrag.com/) - The largest collaborative rock climbing & bouldering platform
