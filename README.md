@@ -31,13 +31,13 @@ You don't have to follow the order, you can choose whatever you want to learn.
 - [Further Reading and Learning](#further-reading-and-learning)
 - [How to collaborate](#how-to-collaborate)
 
-## Introduction
+## Introduction (*)
 
-<img src="img/introduction.jpg">
+![Introduction](img/introduction.jpg)
 
-[How to rock climb](http://www.howcast.com/guides/1108-how-to-rock-climb/)
+[How to rock climb](http://www.howcast.com/guides/1108-how-to-rock-climb/) :star: 
 
-[How to be a Rock Climber](https://youtu.be/FpZIT_I2_Oo)
+[How to be a Rock Climber](https://youtu.be/FpZIT_I2_Oo) :fire:
 
 [Getting Started Rock Climbing](https://www.rei.com/learn/expert-advice/getting-started-rock-climbing.html)
 
@@ -55,7 +55,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Sport Climbing Basics: Tips & Technique](https://www.rei.com/learn/expert-advice/sport-climbing-basics.html)
 
-## Rock Climbing Gear
+## Rock Climbing Gear (*)
 
 <img src="img/gear.jpg">
 
