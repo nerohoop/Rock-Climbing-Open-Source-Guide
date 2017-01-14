@@ -19,7 +19,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
   * [Harness](#harness)
   * [Carabiner](#carabiners)
   * [Rope](#rope)
-  * [Belay/rappel device](#belay/rappel-device) 
+  * [Belay Device](#belay-device) 
   * [Carabiners](#carabiners)
   * [Runners](#runners)
   * [Quickdraws](#quickdraws)
@@ -170,13 +170,25 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Rock Climbing Gear Guide: Best Belay Devices](http://mojagear.com/best-rock-climbing-gear-guides/belay-devices-grigri-atc/)
 
-### Quick Draws (*)
+### Quick Draws
+
+[Climbing Gear: Choosing The Right Quickdraws For Your Climb](https://www.youtube.com/watch?v=qpq1GEmqLrE)
+
+[Quickdraw Buying Advice](https://www.youtube.com/watch?v=3arZwg8vA0I)
+
+[Black Diamond Quickdraws](https://www.youtube.com/watch?v=1R64jCQfYw8)
 
 [Quickdraws: How to Choose](https://www.rei.com/learn/expert-advice/quickdraws.html)
 
+[Rock Climbing Gear Guide: Best Quickdraws](http://mojagear.com/best-rock-climbing-gear-guides/quickdraws/)
+
 [Best Quickdraws: The Top 5 of 2017](https://www.99boulders.com/best-quickdraws)
 
-### Helmet (*)
+[How To Clip A Quickdraw: Rock Climbing Basics](https://www.youtube.com/watch?v=NwbXDakBYUw)
+
+[Rock Climbing Basics: Clipping a Quickdraw](https://www.youtube.com/watch?v=PPCAa6Xj0lo)
+
+### Helmet
 
 [How to Choose the Best Climbing Helmet](https://www.rei.com/learn/expert-advice/climbing-helmet.html)
 
@@ -460,6 +472,8 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Dosage the Complete Box Set](https://goo.gl/C68p8J)
 
+[The Math of Rock Climbing: Fall factor](https://www.youtube.com/watch?v=vnoL8hiN65A)
+
 http://www.alpineinstitute.com/
 
 ### Films
@@ -517,6 +531,8 @@ The REEL ROCK Film Tour brings the best climbing and adventure films of the year
 [Rakkup](http://rakkup.com/guidebooks/) - They digitalize lots of guide books
 
 [Reddit](https://www.reddit.com/r/climbing/wiki/index)
+
+[Thailand Climbing](http://www.thailandclimbing.com/)
 
 ### Apps
 
