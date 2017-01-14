@@ -158,11 +158,17 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [How to Coil a Climbing Rope](http://mojagear.com/journal/2014/09/22/how-to-coil-a-climbing-rope/)
 
-### Belay Device (*)
-
-[ Belay Devices: How to Choose](https://www.rei.com/learn/expert-advice/belay-device.html)
+### Belay Device
 
 [How to Pick the Right Belay Device for Indoor Climbing](http://www.howcast.com/videos/512711-how-to-pick-the-right-belay-device-rock-climbing/)
+
+[What Is The Best Belay Device For Sport Climbing?](https://www.youtube.com/watch?v=ax28txhUR5Q)
+
+[Belay Devices: How to Choose](https://www.rei.com/learn/expert-advice/belay-device.html)
+
+[All the Belay Devices Coming in 2017 - Black Diamond, Edelrid, Petzl, Wild Country](https://www.youtube.com/watch?v=xyGzwPBUszg)
+
+[Rock Climbing Gear Guide: Best Belay Devices](http://mojagear.com/best-rock-climbing-gear-guides/belay-devices-grigri-atc/)
 
 ### Quick Draws (*)
 
@@ -200,6 +206,8 @@ You don't have to follow the order, you can choose whatever you want to learn.
 [How to Tie the Figure 8 Follow Through Loop](https://www.youtube.com/watch?v=aLopeVBb7yU&feature=youtu.be)
 
 ## How to Belay (*)
+
+[Essentials of Belaying](http://mojagear.com/learn/2014/05/10/essentials-of-belaying/)
 
 [How to Belay](https://www.rei.com/learn/expert-advice/belay.html)
 
@@ -479,6 +487,8 @@ The REEL ROCK Film Tour brings the best climbing and adventure films of the year
 ### Books
 
 [Top 25 Best Rock Climbing Books](http://mojagear.com/journal/2016/02/02/25-books-every-climber-should-read/)
+
+[Free Rock Climbing eBooks](http://mojagear.com/rock-climbing-ebooks/)
 
 ### Websites (*)
 
