@@ -138,6 +138,10 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 ### Rope (*)
 
+[The 4 Things You Need To Consider When Buying A Climbing Rope | EpicTV Gear Geek](https://www.youtube.com/watch?v=0GltprhEvSU)
+
+[https://www.youtube.com/watch?v=1bWj4QMlZk4](How to Choose a Rope With Steph Davis)
+
 [Best Climbing Ropes: The Top 6 of 2017](https://www.99boulders.com/best-climbing-ropes)
 
 [Climbing Ropes: How to Choose](https://www.rei.com/learn/expert-advice/ropes.html)
@@ -147,6 +151,8 @@ You don't have to follow the order, you can choose whatever you want to learn.
 [How to Clean & Wash Climbing Rope: Care Guide](https://www.rei.com/learn/expert-advice/rope-care.html)
 
 [Top 10 Best Rock Climbing Ropes 2017](http://mojagear.com/best-rock-climbing-gear-guides/ropes/)
+
+[2016 Rock Climbing Ropes (Beal, Edelrid, Maxim, Roca)](https://www.youtube.com/watch?v=hSF19mLwsWc)
 
 ### Belay Device (*)
 
