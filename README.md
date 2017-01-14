@@ -138,7 +138,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 ### Rope (*)
 
-[The 4 Things You Need To Consider When Buying A Climbing Rope | EpicTV Gear Geek](https://www.youtube.com/watch?v=0GltprhEvSU)
+[The 4 Things You Need To Consider When Buying A Climbing Rope](https://www.youtube.com/watch?v=0GltprhEvSU)
 
 [https://www.youtube.com/watch?v=1bWj4QMlZk4](How to Choose a Rope With Steph Davis)
 
