@@ -31,7 +31,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 - [Further Reading and Learning](#further-reading-and-learning)
 - [How to collaborate](#how-to-collaborate)
 
-## Introduction (*)
+## Introduction
 
 ![Introduction](img/introduction.jpg)
 
@@ -63,7 +63,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Rock Climbing for Beginners - Rock Climbing Gear](https://www.youtube.com/watch?v=tXwV0YD222g)
 
-### Shoes
+### Shoes (*)
 
 [How to choose your climbing shoes by Pietro Dal Pra - part 1 of 4 intro](https://www.youtube.com/watch?v=OAjTLsG8sjo&index=1&list=PLdryj12mbHdJy3cBHt9JUgihf77rJa8fx)
 
@@ -93,7 +93,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Review: Our Top 11 Rock Climbing Shoes](http://www.climbing.com/gear/review-our-top-5-performance-rock-climbing-shoes/)
 
-### Harness
+### Harness (*)
 
 [How to Choose the Best Climbing Harness](https://www.rei.com/learn/expert-advice/climbing-harness.html)
 
@@ -105,7 +105,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [What Is The Best Entry-Level Climbing Harness?](https://www.youtube.com/watch?v=4qFu-_ctkuY)
 
-### Carabiners
+### Carabiners (*)
 
 [Carabiners: How to Choose](https://www.rei.com/learn/expert-advice/carabiners.html)
 
@@ -119,7 +119,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [All the Belay Devices Coming in 2017 - Black Diamond, Edelrid, Petzl, Wild Country](https://www.youtube.com/watch?v=xyGzwPBUszg)
 
-### Rope
+### Rope (*)
 
 [Best Climbing Ropes: The Top 6 of 2017](https://www.99boulders.com/best-climbing-ropes)
 
@@ -129,23 +129,23 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [How to Clean & Wash Climbing Rope: Care Guide](https://www.rei.com/learn/expert-advice/rope-care.html)
 
-### Belay Device
+### Belay Device (*)
 
 [ Belay Devices: How to Choose](https://www.rei.com/learn/expert-advice/belay-device.html)
 
 [How to Pick the Right Belay Device for Indoor Climbing](http://www.howcast.com/videos/512711-how-to-pick-the-right-belay-device-rock-climbing/)
 
-### Quick Draws
+### Quick Draws (*)
 
 [Quickdraws: How to Choose](https://www.rei.com/learn/expert-advice/quickdraws.html)
 
 [Best Quickdraws: The Top 5 of 2017](https://www.99boulders.com/best-quickdraws)
 
-### Helmet 
+### Helmet (*)
 
 [How to Choose the Best Climbing Helmet](https://www.rei.com/learn/expert-advice/climbing-helmet.html)
 
-### Chalk
+### Chalk (*)
 
 [How to Choose the Best Chalk Bags & Chalk](https://www.rei.com/learn/expert-advice/chalk-chalk-bags.html)
 
@@ -153,13 +153,13 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [How to Use Chalk for Indoor Climbing](http://www.howcast.com/videos/512682-how-to-use-chalk-for-indoor-climbing-rock-climbing/)
 
-### Cams
+### Cams (*)
 
 [Climbing Cams & Tube Chocks: Active Climbing Protection](https://www.rei.com/learn/expert-advice/active-rock-climbing-protection.html)
 
 [Passive Climbing Protection: Hexes, Chocks & Nuts](https://www.rei.com/learn/expert-advice/passive-rock-climbing-protection.html)
 
-## How to Tie Climbing Knots
+## How to Tie Climbing Knots (*)
 
 [Climbing Knots, Hitches and Bends](https://www.rei.com/learn/expert-advice/climbing-knots.html)
 
@@ -167,7 +167,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [How to Tie the Figure 8 Follow Through Loop](https://www.youtube.com/watch?v=aLopeVBb7yU&feature=youtu.be)
 
-## How to Belay
+## How to Belay (*)
 
 [How to Belay](https://www.rei.com/learn/expert-advice/belay.html)
 
@@ -191,7 +191,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Setting Up As The Belayer](https://www.youtube.com/watch?v=m-FbtppVC7w)
 
-## Understanding Climbing Grades
+## Understanding Climbing Grades (*)
 
 [Climbing Grades: Climbing/Bouldering Rating Systems](https://www.rei.com/learn/expert-advice/climbing-bouldering-rating.html)
 
@@ -199,7 +199,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [How to Understand Indoor Climbing Grades](http://www.howcast.com/videos/512706-how-to-understand-climbing-grades-rock-climbing/)
 
-## Understanding Climbing Lingo
+## Understanding Climbing Lingo (*)
 
 [How to Use Commands before Top-Rope Climbing](http://www.howcast.com/videos/512688-using-commands-before-top-rope-climbing-rock-climbing/)
 
@@ -211,7 +211,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Rock Climbing Glossary](https://www.rei.com/learn/expert-advice/rock-climbing-glossary.html)
 
-## How to Build Anchors
+## How to Build Anchors (*)
 
 [How to Build Rock Climbing Anchors](https://www.rei.com/learn/expert-advice/climbing-anchors.html)
 
