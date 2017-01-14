@@ -136,11 +136,11 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Examples of dangerous carabiner loading](https://www.petzl.com/CA/en/Sport/Examples-of-dangerous-carabiner-loading-?ActivityName=Rock-climbing#.WHm2dLZ95E4)
 
-### Rope (*)
+### Rope
 
 [The 4 Things You Need To Consider When Buying A Climbing Rope](https://www.youtube.com/watch?v=0GltprhEvSU)
 
-[https://www.youtube.com/watch?v=1bWj4QMlZk4](How to Choose a Rope With Steph Davis)
+[How to Choose a Rope With Steph Davis](https://www.youtube.com/watch?v=1bWj4QMlZk4)
 
 [Best Climbing Ropes: The Top 6 of 2017](https://www.99boulders.com/best-climbing-ropes)
 
