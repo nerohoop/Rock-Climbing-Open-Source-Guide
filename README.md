@@ -70,21 +70,23 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [How to Dress for Indoor Rock Climbing](http://www.howcast.com/videos/512708-how-to-dress-for-indoor-climbing-rock-climbing/)
 
-### Shoes (*)
+### Shoes
 
-[How to choose your climbing shoes by Pietro Dal Pra - part 1 of 4 intro](https://www.youtube.com/watch?v=OAjTLsG8sjo&index=1&list=PLdryj12mbHdJy3cBHt9JUgihf77rJa8fx)
+[How to choose your climbing shoes by Pietro Dal Pra](https://www.youtube.com/watch?v=OAjTLsG8sjo&index=1&list=PLdryj12mbHdJy3cBHt9JUgihf77rJa8fx)
 
-[BEST ROCK CLIMBING SHOES FOR BEGINNERS](http://www.switchbacktravel.com/best-climbing-shoes-beginners)
+[How To Pick The Perfect Climbing Shoe For You](https://www.youtube.com/watch?v=iTSr3VpFP_I)
 
-[BEST ROCK CLIMBING SHOES OF 2016](http://www.switchbacktravel.com/best-rock-climbing-shoes)
+[Climbing Technique For Beginners - Episode - 4 - Shoes](https://www.youtube.com/watch?v=QBxukNzgjDg&t=101s)
 
 [2017 New Climbing Shoes - See Them All!](https://www.youtube.com/watch?v=H4E5LAuNJXE&t=793s)
 
 [How to Choose the Best Rock Climbing Shoes](https://www.rei.com/learn/expert-advice/rock-shoes.html)
 
-[How To Pick The Perfect Climbing Shoe For You](https://www.youtube.com/watch?v=iTSr3VpFP_I)
+[Gear Guide: Review of the Best Shoes for Bouldering, Sport, and Trad Climbing](http://mojagear.com/best-rock-climbing-gear-guides/climbing-shoes/)
 
-[Climbing Technique For Beginners - Episode - 4 - Shoes](https://www.youtube.com/watch?v=QBxukNzgjDg&t=101s)
+[Best Rock Climbing Shoes For Beginners](http://www.switchbacktravel.com/best-climbing-shoes-beginners)
+
+[Best Rock Climbing Shoes Of 2016](http://www.switchbacktravel.com/best-rock-climbing-shoes)
 
 [Review: Our Top Climbing Shoes For 2016](http://www.climbing.com/gear/review-our-top-climbing-shoes-for-2016/)
 
@@ -95,8 +97,6 @@ You don't have to follow the order, you can choose whatever you want to learn.
 [The Best Rock Climbing Shoes for Indoor and Outdoor Use](http://www.bestproducts.com/fitness/equipment/g344/rock-climbing-shoes-for-every-level/)
 
 [Rock Climbing Shoes, from Beginner to Expert](http://gearpatrol.com/2016/07/08/best-rock-climbing-shoes/)
-
-[Gear Guide: Review of the Best Shoes for Bouldering, Sport, and Trad Climbing](http://mojagear.com/best-rock-climbing-gear-guides/climbing-shoes/)
 
 [Review: Our Top 11 Rock Climbing Shoes](http://www.climbing.com/gear/review-our-top-5-performance-rock-climbing-shoes/)
 
