@@ -116,19 +116,25 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [2016 Rock Climbing Harnesses](http://blog.weighmyrack.com/2016-rock-climbing-harnesses-coming-to-release-in-2016/)
 
-### Carabiners (*)
-
-[Carabiners: How to Choose](https://www.rei.com/learn/expert-advice/carabiners.html)
+### Carabiners
 
 [Intro to Carabiners](https://www.youtube.com/watch?v=llUg6LhvryE&index=45&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
 
 [How to Pick the Right Carabiners for Indoor Climbing](http://www.howcast.com/videos/512712-how-to-pick-the-right-carabiners-rock-climbing/)
 
+[Carabiner basics](https://www.petzl.com/CA/en/Sport/Carabiner-basics?ActivityName=Rock-climbing#.WHm2TLZ95E4)
+
 [How to Choose Carabiners](https://www.youtube.com/watch?v=T8f_YnQGzA8)
+
+[Rock Climbing Gear Guide: Carabiners](http://mojagear.com/best-rock-climbing-gear-guides/carabiners/)
+
+[Carabiners: How to Choose](https://www.rei.com/learn/expert-advice/carabiners.html)
 
 [What's The Best Carabiner For Use With Belay Devices?](https://www.youtube.com/watch?v=Mb5x_2CNkEk)
 
 [All the Belay Devices Coming in 2017 - Black Diamond, Edelrid, Petzl, Wild Country](https://www.youtube.com/watch?v=xyGzwPBUszg)
+
+[Examples of dangerous carabiner loading](https://www.petzl.com/CA/en/Sport/Examples-of-dangerous-carabiner-loading-?ActivityName=Rock-climbing#.WHm2dLZ95E4)
 
 ### Rope (*)
 
