@@ -190,7 +190,17 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 ### Helmet
 
+[The Best Lightweight Climbing Helmet](https://www.youtube.com/watch?v=3Iwo4yEfzGo)
+
+[Best Climbing Helmets Of 2016](http://www.switchbacktravel.com/best-climbing-helmets)
+
 [How to Choose the Best Climbing Helmet](https://www.rei.com/learn/expert-advice/climbing-helmet.html)
+
+[Climbing Magazine's Unscientific Helmet Test](https://www.youtube.com/watch?v=MJhngt_wS2Y)
+
+[The Best Climbing Helmet](http://www.outdoorgearlab.com/Climbing-Helmet-Reviews)
+
+[No-Brainer? Why Do So Many Climbers Not Wear Helmets?](http://www.climbing.com/news/no-brainer-helmet/)
 
 ### Chalk (*)
 
