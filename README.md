@@ -35,29 +35,25 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 ![Introduction](img/introduction.jpg)
 
-[How to rock climb](http://www.howcast.com/guides/1108-how-to-rock-climb/) :star: 
+[How to rock climb](http://www.howcast.com/guides/1108-how-to-rock-climb/) 
 
-[How to be a Rock Climber](https://youtu.be/FpZIT_I2_Oo) :fire:
-
-[Getting Started Rock Climbing](https://www.rei.com/learn/expert-advice/getting-started-rock-climbing.html)
+[How to be a Rock Climber](https://youtu.be/FpZIT_I2_Oo)
 
 [Rock Climbing for Beginners - Introduction To Rock Climbing](https://www.youtube.com/watch?v=gLfvk2SSj1c&t=4s)
 
-[The 10 Things You Need to Know Before You Go Rock Climbing](http://greatist.com/move/rock-climbing-tips)
-
 [The Beginner's Guide to Rock Climbing](https://www.outsideonline.com/2062326/beginners-guide-rock-climbing)
+
+[Getting Started Rock Climbing](https://www.rei.com/learn/expert-advice/getting-started-rock-climbing.html)
 
 [How to Rock Climb – The Beginners Guide](http://expertenough.com/690/rock-climbing)
 
 [How to Get Started: 10 Pro Tips for Rock-Climbing Beginners](http://www.popularmechanics.com/adventure/outdoors/a9412/how-to-get-started-10-pro-tips-for-rock-climbing-beginners-15837589/)
 
-[Indoor (Gym) Climbing Basics](https://www.rei.com/learn/expert-advice/indoor-climbing.html)
-
-[Sport Climbing Basics: Tips & Technique](https://www.rei.com/learn/expert-advice/sport-climbing-basics.html)
+[The 10 Things You Need to Know Before You Go Rock Climbing](http://greatist.com/move/rock-climbing-tips)
 
 ## Rock Climbing Gear (*)
 
-<img src="img/gear.jpg">
+![climbing gear](img/gear.jpg)
 
 [Sport Climbing Checklist](https://www.rei.com/learn/expert-advice/sport-climbing-checklist.html)
 
@@ -223,6 +219,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 ## Top Rope Climbing
 
+[Sport Climbing Basics: Tips & Technique](https://www.rei.com/learn/expert-advice/sport-climbing-basics.html)
 
 ## Lead Climbing 
 
