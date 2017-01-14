@@ -208,6 +208,8 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [How to Use Chalk for Indoor Climbing](http://www.howcast.com/videos/512682-how-to-use-chalk-for-indoor-climbing-rock-climbing/)
 
+[How to Use Rock Climbing Chalk](https://frictionlabs.com/blog/how-to-use-chalk-for-rock-climbing)
+
 ### Cams (*)
 
 [Climbing Cams & Tube Chocks: Active Climbing Protection](https://www.rei.com/learn/expert-advice/active-rock-climbing-protection.html)
@@ -506,6 +508,8 @@ The REEL ROCK Film Tour brings the best climbing and adventure films of the year
 
 [FOREVER – It ain’t over ‘til it’s over.](https://vimeo.com/197621404)
 
+[The World's 10 Coolest Climbing Gyms](https://www.youtube.com/watch?v=6N972JCTd8M)
+
 ### Books
 
 [Top 25 Best Rock Climbing Books](http://mojagear.com/journal/2016/02/02/25-books-every-climber-should-read/)
@@ -541,6 +545,8 @@ The REEL ROCK Film Tour brings the best climbing and adventure films of the year
 [Reddit](https://www.reddit.com/r/climbing/wiki/index)
 
 [Thailand Climbing](http://www.thailandclimbing.com/)
+
+[Friction Labs](https://frictionlabs.com/)
 
 ### Apps
 
