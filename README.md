@@ -23,6 +23,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
   * [Quickdraws](#quickdraws)
   * [Helmet](#helmet)
   * [Chalk](#chalk)
+  * [Cams and Nuts](#cams-and-nuts)
 - [How to Tie Climbing Knots](#how-to-tie-climbing-knots)
 - [How to Belay](#how-to-belay)
 - [Understanding Climbing Grades](#understanding-climbing-grades)
@@ -210,13 +211,21 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [How to Use Rock Climbing Chalk](https://frictionlabs.com/blog/how-to-use-chalk-for-rock-climbing)
 
-### Cams (*)
+### Cams and Nuts
+
+[How to Build Your First Trad Rack: Best Gear for Getting Started](http://mojagear.com/gear-feature/2014/05/16/how-to-build-first-rock-climbing-trad-rack/)
+
+[Rock Climbing Basics: Intro to Cams](https://www.youtube.com/watch?v=J4yYJjGAYWM)
+
+[Rock Climbing Basics: Intro to Nuts](https://www.youtube.com/watch?v=Y6_zNRQjZ-Q)
 
 [Climbing Cams & Tube Chocks: Active Climbing Protection](https://www.rei.com/learn/expert-advice/active-rock-climbing-protection.html)
 
 [Passive Climbing Protection: Hexes, Chocks & Nuts](https://www.rei.com/learn/expert-advice/passive-rock-climbing-protection.html)
 
 [Climbing Slings, Cord and Webbing: How to Choose](https://www.rei.com/learn/expert-advice/slings-cord-webbing.html)
+
+[Your First Trad Rack: What to Buy](https://www.youtube.com/watch?v=V7aP4k5KQ64)
 
 
 ## How to Tie Climbing Knots (*)
