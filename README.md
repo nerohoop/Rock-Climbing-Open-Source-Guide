@@ -138,21 +138,25 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 ### Rope
 
+[Beta by Boyko: Everything You Need to Know About Rock Climbing Ropes](http://mojagear.com/learn/2015/07/02/beta-by-boyko-everything-you-need-to-know-about-rock-climbing-ropes/)
+
 [The 4 Things You Need To Consider When Buying A Climbing Rope](https://www.youtube.com/watch?v=0GltprhEvSU)
 
 [How to Choose a Rope With Steph Davis](https://www.youtube.com/watch?v=1bWj4QMlZk4)
 
-[Best Climbing Ropes: The Top 6 of 2017](https://www.99boulders.com/best-climbing-ropes)
-
 [Climbing Ropes: How to Choose](https://www.rei.com/learn/expert-advice/ropes.html)
 
-[Climbing Slings, Cord and Webbing: How to Choose](https://www.rei.com/learn/expert-advice/slings-cord-webbing.html)
+[Best Climbing Ropes: The Top 6 of 2017](https://www.99boulders.com/best-climbing-ropes)
 
 [How to Clean & Wash Climbing Rope: Care Guide](https://www.rei.com/learn/expert-advice/rope-care.html)
 
 [Top 10 Best Rock Climbing Ropes 2017](http://mojagear.com/best-rock-climbing-gear-guides/ropes/)
 
 [2016 Rock Climbing Ropes (Beal, Edelrid, Maxim, Roca)](https://www.youtube.com/watch?v=hSF19mLwsWc)
+
+[Rock Climbing Gear Guide: Best Ropes](http://mojagear.com/best-rock-climbing-gear-guides/ropes/)
+
+[How to Coil a Climbing Rope](http://mojagear.com/journal/2014/09/22/how-to-coil-a-climbing-rope/)
 
 ### Belay Device (*)
 
@@ -183,6 +187,9 @@ You don't have to follow the order, you can choose whatever you want to learn.
 [Climbing Cams & Tube Chocks: Active Climbing Protection](https://www.rei.com/learn/expert-advice/active-rock-climbing-protection.html)
 
 [Passive Climbing Protection: Hexes, Chocks & Nuts](https://www.rei.com/learn/expert-advice/passive-rock-climbing-protection.html)
+
+[Climbing Slings, Cord and Webbing: How to Choose](https://www.rei.com/learn/expert-advice/slings-cord-webbing.html)
+
 
 ## How to Tie Climbing Knots (*)
 
@@ -466,6 +473,8 @@ The REEL ROCK Film Tour brings the best climbing and adventure films of the year
 [Just climb through it - Ashima Shiraishi](https://www.youtube.com/watch?v=dIz7n7KWlZY)
 
 [Why I Climb & How I Still Climb 5.13 When I'm Nearly 50](https://www.youtube.com/watch?v=uWnAuGO7niU)
+
+[FOREVER – It ain’t over ‘til it’s over.](https://vimeo.com/197621404)
 
 ### Books
 
