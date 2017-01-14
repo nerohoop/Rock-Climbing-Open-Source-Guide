@@ -102,11 +102,15 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 ### Harness (*)
 
-[How to Choose the Best Climbing Harness](https://www.rei.com/learn/expert-advice/climbing-harness.html)
-
 [How to fit a climbing harness](http://www.howcast.com/videos/512683-how-to-fit-a-climbing-harness-rock-climbing/)
 
+[What Is The Best Entry-Level Climbing Harness?](https://www.youtube.com/watch?v=4qFu-_ctkuY)
+
 [How to Choose a Climbing Harness](https://www.youtube.com/watch?v=aRrLfR7rnw0&t=2s)
+
+[How to Choose the Best Climbing Harness](https://www.rei.com/learn/expert-advice/climbing-harness.html)
+
+[Rock Climbing Gear Guide: Best Harnesses](http://mojagear.com/best-rock-climbing-gear-guides/harnesses/)
 
 [How to Pick the Right Harness for Indoor Climbing](http://www.howcast.com/videos/512710-how-to-pick-the-right-harness-rock-climbing/)
 
@@ -135,6 +139,8 @@ You don't have to follow the order, you can choose whatever you want to learn.
 [Climbing Slings, Cord and Webbing: How to Choose](https://www.rei.com/learn/expert-advice/slings-cord-webbing.html)
 
 [How to Clean & Wash Climbing Rope: Care Guide](https://www.rei.com/learn/expert-advice/rope-care.html)
+
+[Top 10 Best Rock Climbing Ropes 2017](http://mojagear.com/best-rock-climbing-gear-guides/ropes/)
 
 ### Belay Device (*)
 
