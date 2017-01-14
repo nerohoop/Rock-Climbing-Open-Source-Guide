@@ -100,9 +100,11 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Review: Our Top 11 Rock Climbing Shoes](http://www.climbing.com/gear/review-our-top-5-performance-rock-climbing-shoes/)
 
-### Harness (*)
+### Harness
 
 [How to fit a climbing harness](http://www.howcast.com/videos/512683-how-to-fit-a-climbing-harness-rock-climbing/)
+
+[How to Pick the Right Harness for Indoor Climbing](http://www.howcast.com/videos/512710-how-to-pick-the-right-harness-rock-climbing/)
 
 [What Is The Best Entry-Level Climbing Harness?](https://www.youtube.com/watch?v=4qFu-_ctkuY)
 
@@ -112,9 +114,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Rock Climbing Gear Guide: Best Harnesses](http://mojagear.com/best-rock-climbing-gear-guides/harnesses/)
 
-[How to Pick the Right Harness for Indoor Climbing](http://www.howcast.com/videos/512710-how-to-pick-the-right-harness-rock-climbing/)
-
-[What Is The Best Entry-Level Climbing Harness?](https://www.youtube.com/watch?v=4qFu-_ctkuY)
+[2016 Rock Climbing Harnesses](http://blog.weighmyrack.com/2016-rock-climbing-harnesses-coming-to-release-in-2016/)
 
 ### Carabiners (*)
 
@@ -466,6 +466,8 @@ The REEL ROCK Film Tour brings the best climbing and adventure films of the year
 [27 Crags](https://27crags.com/)
 
 [Moja Gear](http://mojagear.com/)
+
+[Weigh My Rack](http://www.weighmyrack.com/)
 
 [Climbing](http://www.climbing.com/gear/)
 
