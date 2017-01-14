@@ -58,17 +58,17 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [The 10 Things You Need to Know Before You Go Rock Climbing](http://greatist.com/move/rock-climbing-tips)
 
-## Rock Climbing Gear (*)
+## Rock Climbing Gear
 
 ![climbing gear](img/gear.jpg)
 
 [Sport Climbing Checklist](https://www.rei.com/learn/expert-advice/sport-climbing-checklist.html)
 
+[Rock Climbing for Beginners - Rock Climbing Gear](https://www.youtube.com/watch?v=tXwV0YD222g)
+
 [Guide to Beginner Rock Climbing Essentials](http://gearpatrol.com/2014/11/14/kit-beginner-rock-climbing-gear/)
 
 [How to Dress for Indoor Rock Climbing](http://www.howcast.com/videos/512708-how-to-dress-for-indoor-climbing-rock-climbing/)
-
-[Rock Climbing for Beginners - Rock Climbing Gear](https://www.youtube.com/watch?v=tXwV0YD222g)
 
 ### Shoes (*)
 
