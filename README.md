@@ -17,14 +17,12 @@ You don't have to follow the order, you can choose whatever you want to learn.
 - [Rock Climbing Gear](#rock-climbing-gear)
   * [Shoes](#shoes)
   * [Harness](#harness)
-  * [Carabiner](#carabiners)
-  * [Rope](#rope)
-  * [Belay Device](#belay-device) 
   * [Carabiners](#carabiners)
-  * [Runners](#runners)
+  * [Belay Device](#belay-device) 
+  * [Rope](#rope)
   * [Quickdraws](#quickdraws)
+  * [Helmet](#helmet)
   * [Chalk](#chalk)
-  * [Route description or guidebook]()
 - [How to Tie Climbing Knots](#how-to-tie-climbing-knots)
 - [How to Belay](#how-to-belay)
 - [Understanding Climbing Grades](#understanding-climbing-grades)
@@ -136,6 +134,18 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Examples of dangerous carabiner loading](https://www.petzl.com/CA/en/Sport/Examples-of-dangerous-carabiner-loading-?ActivityName=Rock-climbing#.WHm2dLZ95E4)
 
+### Belay Device
+
+[How to Pick the Right Belay Device for Indoor Climbing](http://www.howcast.com/videos/512711-how-to-pick-the-right-belay-device-rock-climbing/)
+
+[What Is The Best Belay Device For Sport Climbing?](https://www.youtube.com/watch?v=ax28txhUR5Q)
+
+[Belay Devices: How to Choose](https://www.rei.com/learn/expert-advice/belay-device.html)
+
+[All the Belay Devices Coming in 2017 - Black Diamond, Edelrid, Petzl, Wild Country](https://www.youtube.com/watch?v=xyGzwPBUszg)
+
+[Rock Climbing Gear Guide: Best Belay Devices](http://mojagear.com/best-rock-climbing-gear-guides/belay-devices-grigri-atc/)
+
 ### Rope
 
 [Beta by Boyko: Everything You Need to Know About Rock Climbing Ropes](http://mojagear.com/learn/2015/07/02/beta-by-boyko-everything-you-need-to-know-about-rock-climbing-ropes/)
@@ -157,18 +167,6 @@ You don't have to follow the order, you can choose whatever you want to learn.
 [Rock Climbing Gear Guide: Best Ropes](http://mojagear.com/best-rock-climbing-gear-guides/ropes/)
 
 [How to Coil a Climbing Rope](http://mojagear.com/journal/2014/09/22/how-to-coil-a-climbing-rope/)
-
-### Belay Device
-
-[How to Pick the Right Belay Device for Indoor Climbing](http://www.howcast.com/videos/512711-how-to-pick-the-right-belay-device-rock-climbing/)
-
-[What Is The Best Belay Device For Sport Climbing?](https://www.youtube.com/watch?v=ax28txhUR5Q)
-
-[Belay Devices: How to Choose](https://www.rei.com/learn/expert-advice/belay-device.html)
-
-[All the Belay Devices Coming in 2017 - Black Diamond, Edelrid, Petzl, Wild Country](https://www.youtube.com/watch?v=xyGzwPBUszg)
-
-[Rock Climbing Gear Guide: Best Belay Devices](http://mojagear.com/best-rock-climbing-gear-guides/belay-devices-grigri-atc/)
 
 ### Quick Draws
 
@@ -202,7 +200,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [No-Brainer? Why Do So Many Climbers Not Wear Helmets?](http://www.climbing.com/news/no-brainer-helmet/)
 
-### Chalk (*)
+### Chalk
 
 [How to Choose the Best Chalk Bags & Chalk](https://www.rei.com/learn/expert-advice/chalk-chalk-bags.html)
 
