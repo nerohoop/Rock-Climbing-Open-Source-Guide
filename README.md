@@ -6,8 +6,6 @@ This is a collection of free rock climbing tutorials on the web for those of you
 
 Whether you are a beginner with no experience at all or a veteran who has been climbing for years, I hope you can find something useful. 
 
-You don't have to follow the order, you can choose whatever you want to learn.
-
 **Keep calm and climb on.**
 
 <img src="img/climbon.png">
@@ -345,17 +343,41 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Lead Climbing: How to Fall](https://www.rei.com/learn/expert-advice/climbing-how-to-fall.html)
 
-## Bouldering (*)
+## Bouldering
 
-[Bouldering](https://www.youtube.com/watch?v=ddSTXPZuff8)
+[Bouldering 101 with Waylon Lewis & Jackie Hueftle](https://www.youtube.com/watch?v=LWq53Gn07HY)
+
+[Rock Climbing for Beginners - Bouldering](https://www.youtube.com/watch?v=ddSTXPZuff8)
 
 [5 Advanced Bouldering Techniques for Indoor Climbing](http://www.howcast.com/videos/512700-5-advanced-bouldering-techniques-rock-climbing/)
 
 [6 Bouldering Safety Tips for Indoor Rock Climbing](http://www.howcast.com/videos/512703-6-bouldering-safety-tips-rock-climbing/)
 
-## Trad Climbing (*)
+[12 Tips to a Successful Bouldering Strategy](http://mojagear.com/bouldering/2016/12/08/12-tips-to-a-successful-bouldering-strategy/)
+
+[5 Bouldering Tips for How To Improve Your Dyno-ing Technique](http://mojagear.com/bouldering/2015/07/01/5-bouldering-tips-for-how-to-improve-your-dyno-ing-technique/)
+
+## Trad Climbing
+
+[Flowchart: Should You Start Trad Climbing?](http://www.climbing.com/news/flowchart-should-you-start-trad-climbing/)
+
+[Essentials of Climbing: Trad Climbing](https://www.youtube.com/watch?v=YJdvx4udMVI)
+
+[Learn to Climb Trad: The Gear](http://www.climbing.com/skills/learn-to-climb-trad-the-gear/)
+
+[Learn to Climb Trad: Gear Placements and Anchors](http://www.climbing.com/skills/learn-to-climb-trad-gear-placements-and-anchors/)
+
+[Learn to Climb Trad: Knots, Rappelling, and Logistics](http://www.climbing.com/skills/learn-to-climb-trad-knots-rappelling-and-logistics/)
+
+[Learn to Climb Trad: Leading and Following](http://www.climbing.com/skills/learn-to-climb-trad-leading-and-following/)
 
 [Trad Rack Basics: Build a Climbing Rack](https://www.rei.com/learn/expert-advice/basics-gear-racking.html)
+
+[Steps to Begin Trad Leading](http://mojagear.com/learn/2014/05/15/how-to-begin-trad-leading/)
+
+[How to Build Your First Trad Rack: Best Gear for Getting Started](http://mojagear.com/learn/2014/05/16/how-to-build-first-rock-climbing-trad-rack/)
+
+[How to rack for trad climbing with Beth Rodden](https://www.youtube.com/watch?v=E4q5f6SPXGc)
 
 [Lead Climbing: How to Place Trad Gear](https://www.rei.com/learn/expert-advice/place-trad-gear.html)
 
@@ -366,6 +388,20 @@ You don't have to follow the order, you can choose whatever you want to learn.
 ## Rock Climbing Technique
 
 <img src="img/technique.jpg">
+
+### Warm up
+
+[Chris Sharma's Yoga Warmup](https://www.youtube.com/watch?v=-JCXQCUz0Pg)
+
+[My Warm Up Routine For Climbing - Eric Karlsson Bouldering](https://www.youtube.com/watch?v=l7_1dHQJsyw&t=188s)
+
+[How to Warm Up for Rock Climbing: 4 Must-Do Exercises Before Pulling Hard](http://mojagear.com/journal/2016/12/26/how-to-warm-up-rock-climbing-4-exercises-to-do-before-pulling-hard/)
+
+[Learn This: How to Warm-Up for Rock Climbing](http://www.climbing.com/skills/training-how-to-warm-up-for-rock-climbing/)
+
+[How To Warm Up For Climbing With Louis Parkinson](https://www.youtube.com/watch?v=eD8yRPydCDQ)
+
+[Dynamic Climbing Warm-up](https://www.youtube.com/watch?v=B86QxHCDiM0)
 
 ### Climbing Holds
 
@@ -383,7 +419,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Rock Climbing: How to Jam Hand Cracks](https://www.youtube.com/watch?v=l4EzbCLfUkc)
 
-### Foot work (*)
+### Foot
 
 [Climbing Technique For Beginners - Episode 1- Foot Placement](https://www.youtube.com/watch?v=oqd39cc0HL0)
 
@@ -391,7 +427,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Climbing Expert Advice: Foot position](https://www.youtube.com/watch?v=jhyyDBSnyUk)
 
-### Balance (*)
+### Balance
 
 [5 Tips for Better Balance](http://www.climbing.com/skills/5-tips-for-better-climbing-balance/)
 
@@ -427,15 +463,15 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [10 Things You Didn't Know about Dynos](http://www.climbing.com/news/10-things-you-didnt-know-about-dynos/)
 
-### Rappel (*)
+### Rappel
 
 [How to Rappel](https://www.rei.com/learn/expert-advice/how-to-rappel.html)
 
 [Rock Climbing: How to Rappel](https://www.youtube.com/watch?v=7U6tdEevJgs)
 
-### Misc (*)
+### Misc
 
-[](https://www.youtube.com/watch?v=oqd39cc0HL0&list=PLEFVa0JfTcMaFzxPj58KBEFl9KP4NwNOd)
+[Climbing Technique For Beginners - Eric Karlsson](https://www.youtube.com/watch?v=oqd39cc0HL0&list=PLEFVa0JfTcMaFzxPj58KBEFl9KP4NwNOd)
 
 [Gym to Crag: Learning to Climb Outdoors](https://www.rei.com/learn/expert-advice/learning-climb-outdoors.html)
 
@@ -461,7 +497,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Climbing Technique For Beginners - Episode 3- Gym Routine](https://www.youtube.com/watch?v=q9fU-maafMQ)
 
-## Rock Climbing Training (*)
+## Rock Climbing Training
 
 [Rock Climbing Training with Robbie Phillips - Ep. 1 (Theory of Training)](https://www.youtube.com/watch?v=2s99suMzyiU)
 
@@ -478,7 +514,6 @@ You don't have to follow the order, you can choose whatever you want to learn.
 [Rock Climbing Training with Robbie Phillips - Ep. 7 (Outtakes)](https://www.youtube.com/watch?v=pMDc6MsrmaI)
 
 [Further reading: Climbing Training With Robbie Phillips](http://www.edelrid.de/en/climbing-training-with-robbie-phillips/)
-
 
 [Core Exercises For Climbers](https://www.youtube.com/watch?v=UB5pthj0buQ)
 
@@ -514,21 +549,19 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [The Math of Rock Climbing: Fall factor](https://www.youtube.com/watch?v=vnoL8hiN65A)
 
-http://www.alpineinstitute.com/
-
 ### Films
 
 <img src="https://goo.gl/aK8jFH">
 
-[Valley Uprising - ](https://www.youtube.com/watch?v=o86TpaSBcWw)
-Generations of beatniks and madmen drop out of society and take up a life of rock climbing on the massive granite walls of Yosemite National Park.
-
 [Reel Rock Film Tour - ](http://www.reelrocktour.com/)
 The REEL ROCK Film Tour brings the best climbing and adventure films of the year to live audiences throughout the world.
 
+[Valley Uprising - ](https://www.youtube.com/watch?v=o86TpaSBcWw)
+Generations of beatniks and madmen drop out of society and take up a life of rock climbing on the massive granite walls of Yosemite National Park.
+
 [Sender Films](http://senderfilms.com/)
 
-### Talks
+### Talks and Inspirations
 
 [What are you up against? - Tommy Caldwell](https://www.youtube.com/watch?v=PnMs_qLwaes)
 
@@ -550,7 +583,7 @@ The REEL ROCK Film Tour brings the best climbing and adventure films of the year
 
 [Free Rock Climbing eBooks](http://mojagear.com/rock-climbing-ebooks/)
 
-### Websites (*)
+### Websites
 
 [Epic TV](http://www.epictv.com/)
 
