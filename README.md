@@ -239,13 +239,15 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Understanding Climbing Grades](http://www.climbing.com/skills/unsent-understanding-climbing-grades/)
 
-## Understanding Climbing Lingo (*)
+## Understanding Climbing Lingo
 
 [How to Use Commands before Top-Rope Climbing](http://www.howcast.com/videos/512688-using-commands-before-top-rope-climbing-rock-climbing/)
 
 [How to Use Commands during Top-Rope Climbing](http://www.howcast.com/videos/512689-using-commands-during-top-rope-climbing-rock-climbing/)
 
 [How to Understand Climbing Terminology](https://www.youtube.com/watch?v=nUJAI7CuRO0&index=2&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
+
+[Rock Climbing Dictionary: A Guide to Essential Terms and Slang](http://mojagear.com/learn/2014/05/12/rock-climbing-dictionary-terms-slang/)
 
 [How to Understand Indoor Rock Climbing Terminology](http://www.howcast.com/videos/512713-how-to-understand-climbing-terminology-rock-climbing/)
 
@@ -529,6 +531,8 @@ The REEL ROCK Film Tour brings the best climbing and adventure films of the year
 [FOREVER – It ain’t over ‘til it’s over.](https://vimeo.com/197621404)
 
 [The World's 10 Coolest Climbing Gyms](https://www.youtube.com/watch?v=6N972JCTd8M)
+
+[Unsent: 100 Reasons Why We Climb](http://www.climbing.com/people/unsent-100-reasons-why-we-climb/)
 
 ### Books
 
