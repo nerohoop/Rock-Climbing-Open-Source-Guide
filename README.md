@@ -227,13 +227,17 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Your First Trad Rack: What to Buy](https://www.youtube.com/watch?v=V7aP4k5KQ64)
 
-## Understanding Climbing Grades (*)
+## Understanding Climbing Grades
+
+[How to Understand Indoor Climbing Grades](http://www.howcast.com/videos/512706-how-to-understand-climbing-grades-rock-climbing/)
+
+[Unsent: Understanding Climbing Grades](http://www.climbing.com/skills/unsent-understanding-climbing-grades/)
+
+[Climbing Grades: Comparison Chart and Rating Systems Overview](http://mojagear.com/learn/2015/12/15/rock-climbing-grades-comparison-chart-rating-systems/)
 
 [Climbing Grades: Climbing/Bouldering Rating Systems](https://www.rei.com/learn/expert-advice/climbing-bouldering-rating.html)
 
 [Understanding Climbing Grades](http://www.climbing.com/skills/unsent-understanding-climbing-grades/)
-
-[How to Understand Indoor Climbing Grades](http://www.howcast.com/videos/512706-how-to-understand-climbing-grades-rock-climbing/)
 
 ## Understanding Climbing Lingo (*)
 
