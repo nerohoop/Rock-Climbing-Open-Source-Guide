@@ -227,14 +227,21 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Your First Trad Rack: What to Buy](https://www.youtube.com/watch?v=V7aP4k5KQ64)
 
-
-## How to Tie Climbing Knots (*)
+## How to Tie Climbing Knots
 
 [Climbing Knots, Hitches and Bends](https://www.rei.com/learn/expert-advice/climbing-knots.html)
+
+[How to Tie Rock Climbing Knots](http://mojagear.com/learn/2014/05/14/how-to-tie-rock-climbing-knots/)
+
+[How-to Tie Common Climbing Knots](https://www.youtube.com/watch?v=wBuUHaAU-Wo)
+
+[Climbing Knots Tutorial - Figure Eight, Clove Hitch, Overhand on a Bight](https://www.youtube.com/watch?v=nw7ohO02d2M)
 
 [How to Tie Figure 8 Follow-Through Knot for Indoor Climbing](http://www.howcast.com/videos/512684-how-to-tie-figure-8-follow-through-knot-rock-climbing/)
 
 [How to Tie the Figure 8 Follow Through Loop](https://www.youtube.com/watch?v=aLopeVBb7yU&feature=youtu.be)
+
+[Rock Climbing Basics: Clove Hitch and Figure 8 Knots](http://www.climbing.com/videos/rock-climbing-basics-clove-hitch-and-figure-8-knots/)
 
 ## How to Belay (*)
 
