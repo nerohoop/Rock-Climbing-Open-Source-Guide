@@ -29,9 +29,9 @@ You don't have to follow the order, you can choose whatever you want to learn.
 - [How to Tie Climbing Knots](#how-to-tie-climbing-knots)
 - [How to Belay](#how-to-belay)
 - [How to Build Anchors](#how-to-build-anchors)
-- [Top Rope Climbing](#top-rope-climbing)
-- [Lead Climbing](#lead-climbing)
+- [Top Rope and Lead Climbing](#top-rope-and-lead-climbing)
 - [Bouldering](#bouldering)
+- [Trad Climbing](#trad-climbing)
 - [Rock Climbing Technique](#rock-climbing-technique)
 - [Rock Climbing Training](#rock-climbing-training)
 - [Further Reading and Learning](#further-reading-and-learning)
@@ -313,15 +313,11 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [How to Set and Clean a Top-Rope Anchor](https://www.rei.com/learn/expert-advice/set-and-clean-anchors.html)
 
-## Top Rope Climbing
-
-[Sport Climbing Basics: Tips & Technique](https://www.rei.com/learn/expert-advice/sport-climbing-basics.html)
-
-[3 Phases of an Effective Climbing Warm Up]()
-
-## Lead Climbing 
+## Top Rope and Lead Climbing
 
 <img src="img/leadclimbing.jpg">
+
+[Sport Climbing Basics: Tips & Technique](https://www.rei.com/learn/expert-advice/sport-climbing-basics.html)
 
 [Lead Climbing](https://www.youtube.com/watch?v=q4rVY3sLQqA)
 
@@ -349,7 +345,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Lead Climbing: How to Fall](https://www.rei.com/learn/expert-advice/climbing-how-to-fall.html)
 
-## Bouldering
+## Bouldering (*)
 
 [Bouldering](https://www.youtube.com/watch?v=ddSTXPZuff8)
 
@@ -357,13 +353,11 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [6 Bouldering Safety Tips for Indoor Rock Climbing](http://www.howcast.com/videos/512703-6-bouldering-safety-tips-rock-climbing/)
 
-## Trad Climbing
+## Trad Climbing (*)
 
 [Trad Rack Basics: Build a Climbing Rack](https://www.rei.com/learn/expert-advice/basics-gear-racking.html)
 
 [Lead Climbing: How to Place Trad Gear](https://www.rei.com/learn/expert-advice/place-trad-gear.html)
-
-## Crack Climbing
 
 [How to Crack Climb: Technique & Tips](https://www.rei.com/learn/expert-advice/crack-climbing.html)
 
