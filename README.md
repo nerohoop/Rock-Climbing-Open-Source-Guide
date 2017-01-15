@@ -269,7 +269,7 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Rock Climbing Basics: Clove Hitch and Figure 8 Knots](http://www.climbing.com/videos/rock-climbing-basics-clove-hitch-and-figure-8-knots/)
 
-## How to Belay (*)
+## How to Belay
 
 [Essentials of Belaying](http://mojagear.com/learn/2014/05/10/essentials-of-belaying/)
 
