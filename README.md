@@ -595,13 +595,8 @@ The REEL ROCK Film Tour brings the best climbing and adventure films of the year
 If you find any mistakes, broken link or you want to suggest a new resource, don't hesitate to send me an 
 <a href="mailto:nerohoop@gmail.com">email</a>. You can also summit any interesting articles, books, videos, apps.
 
-I'd love to hear from you how I can improve this guide to help more and more climbers. 
+I'd love to hear from you how I can improve this guide to help more climbers. 
 
 **Any Feedback is welcome**
-
-## Community
-
-Join our chat room! [![Join the chat](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/Rock-Climing-Open-Source-Guide/Lobby?utm_source=share-link&utm_medium=link&utm_campaign=share-link)
-
 
 
