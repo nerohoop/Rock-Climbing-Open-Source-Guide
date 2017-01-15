@@ -295,15 +295,29 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Setting Up As The Belayer](https://www.youtube.com/watch?v=m-FbtppVC7w)
 
-## How to Build Anchors (*)
+## How to Build Anchors
+
+[Rock Climbing: Building a Top-Rope Anchor Using the Quad](https://www.youtube.com/watch?v=9liByriQRag&t=2s)
+
+[Building Rock Climbing Anchors: Basic Principles](http://mojagear.com/learn/2014/05/14/building-rock-climbing-anchors-introduction-serene/)
 
 [How to Build Rock Climbing Anchors](https://www.rei.com/learn/expert-advice/climbing-anchors.html)
+
+[How To Build An Anchor With Two Slings And Three Pieces](https://www.youtube.com/watch?v=2mSZ5ROlPoY)
+
+[Rock Climbing: Cleaning a Top Rope Anchor](https://www.youtube.com/watch?v=NMSTNq6SZV0&t=1s)
+
+[Rock Climbing Basics: Cleaning a Sport Anchor](https://www.youtube.com/watch?v=ZWesW8aX8yc)
+
+[How To Clean A Top Rope Anchor](https://www.youtube.com/watch?v=kgawqTTmkNg)
 
 [How to Set and Clean a Top-Rope Anchor](https://www.rei.com/learn/expert-advice/set-and-clean-anchors.html)
 
 ## Top Rope Climbing
 
 [Sport Climbing Basics: Tips & Technique](https://www.rei.com/learn/expert-advice/sport-climbing-basics.html)
+
+[3 Phases of an Effective Climbing Warm Up]()
 
 ## Lead Climbing 
 
@@ -533,6 +547,8 @@ The REEL ROCK Film Tour brings the best climbing and adventure films of the year
 [The World's 10 Coolest Climbing Gyms](https://www.youtube.com/watch?v=6N972JCTd8M)
 
 [Unsent: 100 Reasons Why We Climb](http://www.climbing.com/people/unsent-100-reasons-why-we-climb/)
+
+[5 Climbing Organizations You Should Care About](http://mojagear.com/journal/2016/10/18/5-climbing-organizations-you-should-care-about/)
 
 ### Books
 
