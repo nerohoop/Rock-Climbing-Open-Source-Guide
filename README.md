@@ -24,10 +24,10 @@ You don't have to follow the order, you can choose whatever you want to learn.
   * [Helmet](#helmet)
   * [Chalk](#chalk)
   * [Cams and Nuts](#cams-and-nuts)
-- [How to Tie Climbing Knots](#how-to-tie-climbing-knots)
-- [How to Belay](#how-to-belay)
 - [Understanding Climbing Grades](#understanding-climbing-grades)
 - [Understanding Climbing Lingo](#understanding-climbing-lingo)
+- [How to Tie Climbing Knots](#how-to-tie-climbing-knots)
+- [How to Belay](#how-to-belay)
 - [How to Build Anchors](#how-to-build-anchors)
 - [Top Rope Climbing](#top-rope-climbing)
 - [Lead Climbing](#lead-climbing)
@@ -227,6 +227,26 @@ You don't have to follow the order, you can choose whatever you want to learn.
 
 [Your First Trad Rack: What to Buy](https://www.youtube.com/watch?v=V7aP4k5KQ64)
 
+## Understanding Climbing Grades (*)
+
+[Climbing Grades: Climbing/Bouldering Rating Systems](https://www.rei.com/learn/expert-advice/climbing-bouldering-rating.html)
+
+[Understanding Climbing Grades](http://www.climbing.com/skills/unsent-understanding-climbing-grades/)
+
+[How to Understand Indoor Climbing Grades](http://www.howcast.com/videos/512706-how-to-understand-climbing-grades-rock-climbing/)
+
+## Understanding Climbing Lingo (*)
+
+[How to Use Commands before Top-Rope Climbing](http://www.howcast.com/videos/512688-using-commands-before-top-rope-climbing-rock-climbing/)
+
+[How to Use Commands during Top-Rope Climbing](http://www.howcast.com/videos/512689-using-commands-during-top-rope-climbing-rock-climbing/)
+
+[How to Understand Climbing Terminology](https://www.youtube.com/watch?v=nUJAI7CuRO0&index=2&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
+
+[How to Understand Indoor Rock Climbing Terminology](http://www.howcast.com/videos/512713-how-to-understand-climbing-terminology-rock-climbing/)
+
+[Rock Climbing Glossary](https://www.rei.com/learn/expert-advice/rock-climbing-glossary.html)
+
 ## How to Tie Climbing Knots
 
 [Climbing Knots, Hitches and Bends](https://www.rei.com/learn/expert-advice/climbing-knots.html)
@@ -268,26 +288,6 @@ You don't have to follow the order, you can choose whatever you want to learn.
 [Rock Climbing: How to Belay](https://www.youtube.com/watch?v=CFIz4cBFVro)
 
 [Setting Up As The Belayer](https://www.youtube.com/watch?v=m-FbtppVC7w)
-
-## Understanding Climbing Grades (*)
-
-[Climbing Grades: Climbing/Bouldering Rating Systems](https://www.rei.com/learn/expert-advice/climbing-bouldering-rating.html)
-
-[Understanding Climbing Grades](http://www.climbing.com/skills/unsent-understanding-climbing-grades/)
-
-[How to Understand Indoor Climbing Grades](http://www.howcast.com/videos/512706-how-to-understand-climbing-grades-rock-climbing/)
-
-## Understanding Climbing Lingo (*)
-
-[How to Use Commands before Top-Rope Climbing](http://www.howcast.com/videos/512688-using-commands-before-top-rope-climbing-rock-climbing/)
-
-[How to Use Commands during Top-Rope Climbing](http://www.howcast.com/videos/512689-using-commands-during-top-rope-climbing-rock-climbing/)
-
-[How to Understand Climbing Terminology](https://www.youtube.com/watch?v=nUJAI7CuRO0&index=2&list=PLfVXwulLSGHqGu3VtYKyQTxkOw-wBwRUq)
-
-[How to Understand Indoor Rock Climbing Terminology](http://www.howcast.com/videos/512713-how-to-understand-climbing-terminology-rock-climbing/)
-
-[Rock Climbing Glossary](https://www.rei.com/learn/expert-advice/rock-climbing-glossary.html)
 
 ## How to Build Anchors (*)
 
